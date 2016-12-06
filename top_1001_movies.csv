@@ -1,0 +1,1002 @@
+Rank,Title,Year,Directors,Genres,Num. Votes,Runtime (mins),Release Date (month/day/year),Title type,IMDb Rating,const,URL
+1,The Godfather,1972,Francis Ford Coppola,"crime, drama",1030570,175,15/03/1972,Feature Film,9.2,tt0068646,http://www.imdb.com/title/tt0068646/
+2,Seven Samurai,1954,Akira Kurosawa,drama,206808,207,26/04/1954,Feature Film,8.7,tt0047478,http://www.imdb.com/title/tt0047478/
+3,The Godfather: Part II,1974,Francis Ford Coppola,"crime, drama",695056,200,12/12/1974,Feature Film,9.1,tt0071562,http://www.imdb.com/title/tt0071562/
+4,Pulp Fiction,1994,Quentin Tarantino,"crime, drama",1170639,154,12/5/1994,Feature Film,8.9,tt0110912,http://www.imdb.com/title/tt0110912/
+5,12 Angry Men,1957,Sidney Lumet,"crime, drama",385754,96,10/4/1957,Feature Film,8.9,tt0050083,http://www.imdb.com/title/tt0050083/
+6,Lawrence of Arabia,1962,David Lean,"adventure, biography, drama, history, war",170815,216,10/12/1962,Feature Film,8.4,tt0056172,http://www.imdb.com/title/tt0056172/
+7,Schindler's List,1993,Steven Spielberg,"biography, drama, history",763865,195,30/11/1993,Feature Film,8.9,tt0108052,http://www.imdb.com/title/tt0108052/
+8,Sunset Blvd.,1950,Billy Wilder,"drama, film_noir",124291,110,10/8/1950,Feature Film,8.5,tt0043014,http://www.imdb.com/title/tt0043014/
+9,M,1931,Fritz Lang,"crime, drama, thriller",88627,117,11/5/1931,Feature Film,8.4,tt0022100,http://www.imdb.com/title/tt0022100/
+10,Modern Times,1936,Charlie Chaplin,"comedy, drama",122231,87,5/2/1936,Feature Film,8.6,tt0027977,http://www.imdb.com/title/tt0027977/
+11,Goodfellas,1990,Martin Scorsese,"biography, crime, drama",646614,146,12/9/1990,Feature Film,8.7,tt0099685,http://www.imdb.com/title/tt0099685/
+12,Spirited Away,2001,Hayao Miyazaki,"animation, adventure, family, fantasy",358775,125,20/07/2001,Feature Film,8.6,tt0245429,http://www.imdb.com/title/tt0245429/
+13,City Lights,1931,Charles Chaplin,"comedy, drama, romance",92787,87,30/01/1931,Feature Film,8.6,tt0021749,http://www.imdb.com/title/tt0021749/
+14,"The Good, the Bad and the Ugly",1966,Sergio Leone,western,449304,161,23/12/1966,Feature Film,8.9,tt0060196,http://www.imdb.com/title/tt0060196/
+15,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Stanley Kubrick,"comedy, war",309948,95,29/01/1964,Feature Film,8.5,tt0057012,http://www.imdb.com/title/tt0057012/
+16,Apocalypse Now,1979,Francis Coppola,"drama, war",404900,153,10/5/1979,Feature Film,8.5,tt0078788,http://www.imdb.com/title/tt0078788/
+17,Casablanca,1942,Michael Curtiz,"drama, romance, war",351382,102,26/11/1942,Feature Film,8.6,tt0034583,http://www.imdb.com/title/tt0034583/
+18,The Shawshank Redemption,1994,Frank Darabont,"crime, drama",1503613,142,10/9/1994,Feature Film,9.3,tt0111161,http://www.imdb.com/title/tt0111161/
+19,Rear Window,1954,Alfred Hitchcock,"mystery, thriller",281346,112,4/8/1954,Feature Film,8.6,tt0047396,http://www.imdb.com/title/tt0047396/
+20,Citizen Kane,1941,Orson Welles,"drama, mystery",269635,119,1/5/1941,Feature Film,8.4,tt0033467,http://www.imdb.com/title/tt0033467/
+21,Vertigo,1958,Alfred Hitchcock,"mystery, romance, thriller",219247,128,9/5/1958,Feature Film,8.4,tt0052357,http://www.imdb.com/title/tt0052357/
+22,Bicycle Thieves,1948,Vittorio De Sica,drama,82215,93,24/11/1948,Feature Film,8.4,tt0040522,http://www.imdb.com/title/tt0040522/
+23,Taxi Driver,1976,Martin Scorsese,"crime, drama",446039,113,8/2/1976,Feature Film,8.4,tt0075314,http://www.imdb.com/title/tt0075314/
+24,Rashomon,1950,Akira Kurosawa,"crime, drama",90728,88,25/08/1950,Feature Film,8.3,tt0042876,http://www.imdb.com/title/tt0042876/
+25,Psycho,1960,Alfred Hitchcock,"horror, mystery, thriller",373003,109,16/06/1960,Feature Film,8.6,tt0054215,http://www.imdb.com/title/tt0054215/
+26,One Flew Over the Cuckoo's Nest,1975,Milos Forman,drama,608219,133,19/11/1975,Feature Film,8.7,tt0073486,http://www.imdb.com/title/tt0073486/
+27,The Third Man,1949,Carol Reed,"film_noir, mystery, thriller",102083,104,31/08/1949,Feature Film,8.3,tt0041959,http://www.imdb.com/title/tt0041959/
+28,Once Upon a Time in the West,1968,Sergio Leone,western,192812,175,21/12/1968,Feature Film,8.6,tt0064116,http://www.imdb.com/title/tt0064116/
+29,Star Wars: Episode V - The Empire Strikes Back,1980,Irvin Kershner,"action, adventure, fantasy, sci_fi",702665,124,17/05/1980,Feature Film,8.8,tt0080684,http://www.imdb.com/title/tt0080684/
+30,On the Waterfront,1954,Elia Kazan,"crime, drama",89500,108,22/06/1954,Feature Film,8.3,tt0047296,http://www.imdb.com/title/tt0047296/
+31,Star Wars: Episode IV - A New Hope,1977,George Lucas,"action, adventure, fantasy, sci_fi",772426,121,25/05/1977,Feature Film,8.7,tt0076759,http://www.imdb.com/title/tt0076759/
+32,Singin' in the Rain,1952,"Stanley Donen, Gene Kelly","comedy, musical, romance",133251,103,27/03/1952,Feature Film,8.4,tt0045152,http://www.imdb.com/title/tt0045152/
+33,Raiders of the Lost Ark,1981,Steven Spielberg,"action, adventure",587411,115,12/6/1981,Feature Film,8.6,tt0082971,http://www.imdb.com/title/tt0082971/
+34,The Dark Knight,2008,Christopher Nolan,"action, crime, drama",1478296,152,14/07/2008,Feature Film,9,tt0468569,http://www.imdb.com/title/tt0468569/
+35,Chinatown,1974,Roman Polanski,"drama, mystery, thriller",193368,130,20/06/1974,Feature Film,8.3,tt0071315,http://www.imdb.com/title/tt0071315/
+36,The 400 Blows,1959,Fran??ois Truffaut,"crime, drama",61975,99,4/5/1959,Feature Film,8.2,tt0053198,http://www.imdb.com/title/tt0053198/
+37,Metropolis,1927,Fritz Lang,"drama, sci_fi",99075,153,10/1/1927,Feature Film,8.3,tt0017136,http://www.imdb.com/title/tt0017136/
+38,Fanny and Alexander,1982,Ingmar Bergman,drama,38138,188,17/12/1982,Feature Film,8.2,tt0083922,http://www.imdb.com/title/tt0083922/
+39,Paths of Glory,1957,Stanley Kubrick,"drama, war",106404,88,18/09/1957,Feature Film,8.5,tt0050825,http://www.imdb.com/title/tt0050825/
+40,Double Indemnity,1944,Billy Wilder,"crime, drama, film_noir, thriller",86985,107,24/04/1944,Feature Film,8.4,tt0036775,http://www.imdb.com/title/tt0036775/
+41,The Night of the Hunter,1955,Charles Laughton,"crime, drama, film_noir, thriller",58168,92,26/07/1955,Feature Film,8.1,tt0048424,http://www.imdb.com/title/tt0048424/
+42,Ikiru,1952,Akira Kurosawa,drama,36805,143,9/10/1952,Feature Film,8.3,tt0044741,http://www.imdb.com/title/tt0044741/
+43,Sunrise,1927,F.W. Murnau,"drama, romance",24287,94,23/09/1927,Feature Film,8.4,tt0018455,http://www.imdb.com/title/tt0018455/
+44,2001: A Space Odyssey,1968,Stanley Kubrick,"mystery, sci_fi",374810,160,2/4/1968,Feature Film,8.3,tt0062622,http://www.imdb.com/title/tt0062622/
+45,It's a Wonderful Life,1946,Frank Capra,"drama, family, fantasy",243042,130,20/12/1946,Feature Film,8.6,tt0038650,http://www.imdb.com/title/tt0038650/
+46,Raging Bull,1980,Martin Scorsese,"biography, drama, sport",211292,129,14/11/1980,Feature Film,8.3,tt0081398,http://www.imdb.com/title/tt0081398/
+47,North by Northwest,1959,Alfred Hitchcock,"adventure, mystery, thriller",199364,136,17/07/1959,Feature Film,8.4,tt0053125,http://www.imdb.com/title/tt0053125/
+48,The Wages of Fear,1953,Henri-Georges Clouzot,"adventure, drama, thriller",31124,131,22/04/1953,Feature Film,8.2,tt0046268,http://www.imdb.com/title/tt0046268/
+49,Tokyo Story,1953,Yasujir?? Ozu,drama,22527,136,3/11/1953,Feature Film,8.3,tt0046438,http://www.imdb.com/title/tt0046438/
+50,All About Eve,1950,Joseph L. Mankiewicz,drama,74407,138,13/10/1950,Feature Film,8.4,tt0042192,http://www.imdb.com/title/tt0042192/
+51,The Silence of the Lambs,1991,Jonathan Demme,"crime, drama, thriller",770407,118,30/01/1991,Feature Film,8.6,tt0102926,http://www.imdb.com/title/tt0102926/
+52,A Separation,2011,Asghar Farhadi,drama,134260,123,15/02/2011,Feature Film,8.4,tt1832382,http://www.imdb.com/title/tt1832382/
+53,The Lord of the Rings: The Fellowship of the Ring,2001,Peter Jackson,"adventure, fantasy",1102422,178,10/12/2001,Feature Film,8.8,tt0120737,http://www.imdb.com/title/tt0120737/
+54,Ran,1985,Akira Kurosawa,"action, drama, war",69506,162,1/6/1985,Feature Film,8.3,tt0089881,http://www.imdb.com/title/tt0089881/
+55,Persona,1966,Ingmar Bergman,drama,52826,85,18/10/1966,Feature Film,8.2,tt0060827,http://www.imdb.com/title/tt0060827/
+56,The Lord of the Rings: The Two Towers,2002,Peter Jackson,"adventure, fantasy",970540,179,5/12/2002,Feature Film,8.7,tt0167261,http://www.imdb.com/title/tt0167261/
+57,The Seventh Seal,1957,Ingmar Bergman,"drama, fantasy",99290,96,16/02/1957,Feature Film,8.3,tt0050976,http://www.imdb.com/title/tt0050976/
+58,Grave of the Fireflies,1988,Isao Takahata,"animation, drama, war",116341,89,16/04/1988,Feature Film,8.5,tt0095327,http://www.imdb.com/title/tt0095327/
+59,The Treasure of the Sierra Madre,1948,John Huston,"action, adventure, drama, western",71193,126,24/01/1948,Feature Film,8.3,tt0040897,http://www.imdb.com/title/tt0040897/
+60,8?´,1963,Federico Fellini,drama,70206,138,14/02/1963,Feature Film,8.1,tt0056801,http://www.imdb.com/title/tt0056801/
+61,Alien,1979,Ridley Scott,"horror, sci_fi",498549,117,22/05/1979,Feature Film,8.5,tt0078748,http://www.imdb.com/title/tt0078748/
+62,The Battle of Algiers,1966,Gillo Pontecorvo,"drama, history, war",32541,121,3/9/1966,Feature Film,8.2,tt0058946,http://www.imdb.com/title/tt0058946/
+63,The General,1926,"Clyde Bruckman, Buster Keaton","action, adventure, comedy, romance, war",46509,67,31/12/1926,Feature Film,8.3,tt0017925,http://www.imdb.com/title/tt0017925/
+64,The Passion of Joan of Arc,1928,Carl Th. Dreyer,"biography, drama, history",22859,110,21/04/1928,Feature Film,8.4,tt0019254,http://www.imdb.com/title/tt0019254/
+65,Toy Story,1995,John Lasseter,"animation, adventure, comedy, family, fantasy",537636,81,19/11/1995,Feature Film,8.3,tt0114709,http://www.imdb.com/title/tt0114709/
+66,The Lord of the Rings: The Return of the King,2003,Peter Jackson,"adventure, fantasy",1077660,201,1/12/2003,Feature Film,8.9,tt0167260,http://www.imdb.com/title/tt0167260/
+67,Toy Story 3,2010,Lee Unkrich,"animation, adventure, comedy, family, fantasy",472244,103,12/6/2010,Feature Film,8.4,tt0435761,http://www.imdb.com/title/tt0435761/
+68,The Gold Rush,1925,Charles Chaplin,"adventure, comedy, drama",58741,95,26/06/1925,Feature Film,8.3,tt0015864,http://www.imdb.com/title/tt0015864/
+69,Yojimbo,1961,Akira Kurosawa,drama,65599,110,25/04/1961,Feature Film,8.4,tt0055630,http://www.imdb.com/title/tt0055630/
+70,The Great Dictator,1940,Charles Chaplin,"comedy, drama, war",118091,125,15/10/1940,Feature Film,8.5,tt0032553,http://www.imdb.com/title/tt0032553/
+71,City of God,2002,"Fernando Meirelles, K?≠tia Lund","crime, drama",477986,130,18/05/2002,Feature Film,8.7,tt0317248,http://www.imdb.com/title/tt0317248/
+72,Wild Strawberries,1957,Ingmar Bergman,drama,56072,91,26/12/1957,Feature Film,8.3,tt0050986,http://www.imdb.com/title/tt0050986/
+73,Stalker,1979,Andrey Tarkovskiy,"drama, sci_fi",59486,163,1979-05,Feature Film,8.2,tt0079944,http://www.imdb.com/title/tt0079944/
+74,The Apartment,1960,Billy Wilder,"comedy, drama, romance",96498,125,15/06/1960,Feature Film,8.3,tt0053604,http://www.imdb.com/title/tt0053604/
+75,The Bridge on the River Kwai,1957,David Lean,"adventure, drama, war",133084,161,2/10/1957,Feature Film,8.3,tt0050212,http://www.imdb.com/title/tt0050212/
+76,Touch of Evil,1958,Orson Welles,"crime, film_noir, thriller",65591,95,23/04/1958,Feature Film,8.2,tt0052311,http://www.imdb.com/title/tt0052311/
+77,Saving Private Ryan,1998,Steven Spielberg,"action, drama, war",772827,169,24/07/1998,Feature Film,8.6,tt0120815,http://www.imdb.com/title/tt0120815/
+78,Back to the Future,1985,Robert Zemeckis,"adventure, comedy, sci_fi",627995,116,3/7/1985,Feature Film,8.5,tt0088763,http://www.imdb.com/title/tt0088763/
+79,Pan's Labyrinth,2006,Guillermo del Toro,"drama, fantasy, war",417648,118,27/05/2006,Feature Film,8.3,tt0457430,http://www.imdb.com/title/tt0457430/
+80,Andrei Rublev,1966,Andrey Tarkovskiy,"biography, drama, history",21310,205,1966-12,Feature Film,8.4,tt0060107,http://www.imdb.com/title/tt0060107/
+81,Annie Hall,1977,Woody Allen,"comedy, drama, romance",170561,93,20/04/1977,Feature Film,8.1,tt0075686,http://www.imdb.com/title/tt0075686/
+82,Some Like It Hot,1959,Billy Wilder,comedy,156873,120,29/03/1959,Feature Film,8.3,tt0053291,http://www.imdb.com/title/tt0053291/
+83,The Wizard of Oz,1939,Victor Fleming,"adventure, family, fantasy, musical",260085,102,12/8/1939,Feature Film,8.1,tt0032138,http://www.imdb.com/title/tt0032138/
+84,The Lives of Others,2006,Florian Henckel von Donnersmarck,"drama, thriller",230210,137,15/03/2006,Feature Film,8.5,tt0405094,http://www.imdb.com/title/tt0405094/
+85,Three Colors: Red,1994,Krzysztof Kieslowski,"drama, mystery, romance",57829,99,12/5/1994,Feature Film,8.1,tt0111495,http://www.imdb.com/title/tt0111495/
+86,Eternal Sunshine of the Spotless Mind,2004,Michel Gondry,"drama, romance, sci_fi",591364,108,19/03/2004,Feature Film,8.4,tt0338013,http://www.imdb.com/title/tt0338013/
+87,It Happened One Night,1934,Frank Capra,"comedy, romance",57056,105,22/02/1934,Feature Film,8.2,tt0025316,http://www.imdb.com/title/tt0025316/
+88,WALL?˙E,2008,Andrew Stanton,"animation, adventure, family, sci_fi",621620,98,23/06/2008,Feature Film,8.4,tt0910970,http://www.imdb.com/title/tt0910970/
+89,Aliens,1986,James Cameron,"action, horror, sci_fi",437598,137,18/07/1986,Feature Film,8.4,tt0090605,http://www.imdb.com/title/tt0090605/
+90,Amadeus,1984,Milos Forman,"biography, drama, music",241024,160,6/9/1984,Feature Film,8.3,tt0086879,http://www.imdb.com/title/tt0086879/
+91,Monty Python and the Holy Grail,1975,"Terry Gilliam, Terry Jones","adventure, comedy, fantasy",344258,91,14/03/1975,Feature Film,8.3,tt0071853,http://www.imdb.com/title/tt0071853/
+92,La Dolce Vita,1960,Federico Fellini,"comedy, drama",43681,174,3/2/1960,Feature Film,8.1,tt0053779,http://www.imdb.com/title/tt0053779/
+93,La Grande Illusion,1937,Jean Renoir,"drama, war",23960,114,4/6/1937,Feature Film,8.2,tt0028950,http://www.imdb.com/title/tt0028950/
+94,Das Boot,1981,Wolfgang Petersen,"adventure, drama, war",151643,149,17/09/1981,Feature Film,8.4,tt0082096,http://www.imdb.com/title/tt0082096/
+95,L.A. Confidential,1997,Curtis Hanson,"crime, drama, mystery, thriller",377517,138,14/05/1997,Feature Film,8.3,tt0119488,http://www.imdb.com/title/tt0119488/
+96,The Kid,1921,Charlie Chaplin,"comedy, drama, family",56083,68,21/01/1921,Feature Film,8.4,tt0012349,http://www.imdb.com/title/tt0012349/
+97,Cinema Paradiso,1988,Giuseppe Tornatore,"comedy, drama",132651,155,29/09/1988,Feature Film,8.5,tt0095765,http://www.imdb.com/title/tt0095765/
+98,The Maltese Falcon,1941,John Huston,"crime, drama, film_noir, mystery",102041,100,3/10/1941,Feature Film,8.2,tt0033870,http://www.imdb.com/title/tt0033870/
+99,Blade Runner,1982,Ridley Scott,"sci_fi, thriller",416744,117,25/06/1982,Feature Film,8.2,tt0083658,http://www.imdb.com/title/tt0083658/
+100,"Paris, Texas",1984,Wim Wenders,drama,43281,147,19/05/1984,Feature Film,8.1,tt0087884,http://www.imdb.com/title/tt0087884/
+101,A Clockwork Orange,1971,Stanley Kubrick,"crime, drama, sci_fi",491588,136,19/12/1971,Feature Film,8.4,tt0066921,http://www.imdb.com/title/tt0066921/
+102,The Shining,1980,Stanley Kubrick,horror,534534,146,23/05/1980,Feature Film,8.4,tt0081505,http://www.imdb.com/title/tt0081505/
+103,The Best Years of Our Lives,1946,William Wyler,"drama, romance, war",36114,172,21/11/1946,Feature Film,8.2,tt0036868,http://www.imdb.com/title/tt0036868/
+104,Fargo,1996,Joel Coen,"crime, drama, thriller",397417,98,8/3/1996,Feature Film,8.2,tt0116282,http://www.imdb.com/title/tt0116282/
+105,Reservoir Dogs,1992,Quentin Tarantino,"crime, drama",580764,99,21/01/1992,Feature Film,8.4,tt0105236,http://www.imdb.com/title/tt0105236/
+106,Unforgiven,1992,Clint Eastwood,western,249229,131,3/8/1992,Feature Film,8.3,tt0105695,http://www.imdb.com/title/tt0105695/
+107,My Neighbor Totoro,1988,Hayao Miyazaki,"animation, family, fantasy",143366,86,16/04/1988,Feature Film,8.3,tt0096283,http://www.imdb.com/title/tt0096283/
+108,The Wild Bunch,1969,Sam Peckinpah,"action, adventure, western",59067,145,18/06/1969,Feature Film,8.1,tt0065214,http://www.imdb.com/title/tt0065214/
+109,Memento,2000,Christopher Nolan,"mystery, thriller",754480,113,5/9/2000,Feature Film,8.5,tt0209144,http://www.imdb.com/title/tt0209144/
+110,The Pianist,2002,Roman Polanski,"biography, drama, war",433465,150,24/05/2002,Feature Film,8.5,tt0253474,http://www.imdb.com/title/tt0253474/
+111,Wings of Desire,1987,Wim Wenders,"drama, fantasy, romance",43335,128,17/05/1987,Feature Film,8.1,tt0093191,http://www.imdb.com/title/tt0093191/
+112,La r??gle du jeu,1939,Jean Renoir,"comedy, drama, romance",18943,110,7/7/1939,Feature Film,8.1,tt0031885,http://www.imdb.com/title/tt0031885/
+113,Notorious,1946,Alfred Hitchcock,"drama, film_noir, romance, thriller",66844,101,15/08/1946,Feature Film,8.1,tt0038787,http://www.imdb.com/title/tt0038787/
+114,La strada,1954,Federico Fellini,drama,42601,108,6/9/1954,Feature Film,8.1,tt0047528,http://www.imdb.com/title/tt0047528/
+115,"Aguirre, the Wrath of God",1972,Werner Herzog,"adventure, drama, history",35005,93,29/12/1972,Feature Film,8,tt0068182,http://www.imdb.com/title/tt0068182/
+116,Cool Hand Luke,1967,Stuart Rosenberg,"crime, drama",108441,126,1/11/1967,Feature Film,8.2,tt0061512,http://www.imdb.com/title/tt0061512/
+117,Badlands,1973,Terrence Malick,"crime, drama",42411,94,13/10/1973,Feature Film,7.9,tt0069762,http://www.imdb.com/title/tt0069762/
+118,Brazil,1985,Terry Gilliam,sci_fi,141699,132,20/02/1985,Feature Film,8,tt0088846,http://www.imdb.com/title/tt0088846/
+119,Witness for the Prosecution,1957,Billy Wilder,"drama, mystery, thriller",53385,116,17/12/1957,Feature Film,8.4,tt0051201,http://www.imdb.com/title/tt0051201/
+120,The Conversation,1974,Francis Ford Coppola,"drama, mystery, thriller",68572,113,7/4/1974,Feature Film,7.9,tt0071360,http://www.imdb.com/title/tt0071360/
+121,Rebecca,1940,Alfred Hitchcock,"mystery, thriller",78463,130,27/03/1940,Feature Film,8.2,tt0032976,http://www.imdb.com/title/tt0032976/
+122,Solaris,1972,Andrey Tarkovskiy,"drama, mystery, sci_fi",47412,167,20/03/1972,Feature Film,8.1,tt0069293,http://www.imdb.com/title/tt0069293/
+123,The Red Shoes,1948,"Michael Powell, Emeric Pressburger","drama, music, romance",18361,133,20/07/1948,Feature Film,8.3,tt0040725,http://www.imdb.com/title/tt0040725/
+124,Le notti di Cabiria,1957,Federico Fellini,drama,23442,110,10/5/1957,Feature Film,8.3,tt0050783,http://www.imdb.com/title/tt0050783/
+125,In the Mood for Love,2000,Kar Wai Wong,"drama, romance",66945,98,20/05/2000,Feature Film,8.1,tt0118694,http://www.imdb.com/title/tt0118694/
+126,Three Colors: Blue,1993,Krzysztof Kieslowski,"drama, music, mystery, romance",55960,98,1/9/1993,Feature Film,8,tt0108394,http://www.imdb.com/title/tt0108394/
+127,The Lion King,1994,"Roger Allers, Rob Minkoff","animation, adventure, drama, family, musical",551281,89,15/06/1994,Feature Film,8.5,tt0110357,http://www.imdb.com/title/tt0110357/
+128,Come and See,1985,E. Klimov,"drama, war",22817,136,1985-07,Feature Film,8.3,tt0091251,http://www.imdb.com/title/tt0091251/
+129,Jaws,1975,Steven Spielberg,"adventure, drama, thriller",365598,124,20/06/1975,Feature Film,8.1,tt0073195,http://www.imdb.com/title/tt0073195/
+130,To Kill a Mockingbird,1962,Robert Mulligan,drama,188707,129,25/12/1962,Feature Film,8.4,tt0056592,http://www.imdb.com/title/tt0056592/
+131,La Haine,1995,Mathieu Kassovitz,"crime, drama",91204,98,31/05/1995,Feature Film,8.1,tt0113247,http://www.imdb.com/title/tt0113247/
+132,Once Upon a Time in America,1984,Sergio Leone,"crime, drama",195856,229,17/02/1984,Feature Film,8.4,tt0087843,http://www.imdb.com/title/tt0087843/
+133,Les diaboliques,1955,H.G. Clouzot,"drama, horror, thriller",36870,116,29/01/1955,Feature Film,8.2,tt0046911,http://www.imdb.com/title/tt0046911/
+134,Up,2009,"Pete Docter, Bob Peterson","animation, adventure, comedy, family",568858,96,13/05/2009,Feature Film,8.3,tt1049413,http://www.imdb.com/title/tt1049413/
+135,Princess Mononoke,1997,Hayao Miyazaki,"animation, adventure, fantasy",192872,134,12/7/1997,Feature Film,8.4,tt0119698,http://www.imdb.com/title/tt0119698/
+136,The Searchers,1956,John Ford,"adventure, drama, western",57208,119,13/03/1956,Feature Film,8,tt0049730,http://www.imdb.com/title/tt0049730/
+137,The Cabinet of Dr. Caligari,1920,Robert Wiene,"crime, horror, thriller",34364,78,26/02/1920,Feature Film,8.1,tt0010323,http://www.imdb.com/title/tt0010323/
+138,Barry Lyndon,1975,Stanley Kubrick,"adventure, drama, history, war",90181,184,18/12/1975,Feature Film,8.1,tt0072684,http://www.imdb.com/title/tt0072684/
+139,Gone with the Wind,1939,Victor Fleming,"drama, romance, war",193324,238,15/12/1939,Feature Film,8.2,tt0031381,http://www.imdb.com/title/tt0031381/
+140,The Grapes of Wrath,1940,John Ford,drama,55979,129,24/01/1940,Feature Film,8.1,tt0032551,http://www.imdb.com/title/tt0032551/
+141,Before Sunset,2004,Richard Linklater,"drama, romance",147891,80,10/2/2004,Feature Film,8.1,tt0381681,http://www.imdb.com/title/tt0381681/
+142,All the President's Men,1976,Alan J. Pakula,"drama, thriller",66047,138,4/4/1976,Feature Film,8,tt0074119,http://www.imdb.com/title/tt0074119/
+143,The Usual Suspects,1995,Bryan Singer,"crime, drama, thriller",659006,106,25/01/1995,Feature Film,8.6,tt0114814,http://www.imdb.com/title/tt0114814/
+144,There Will Be Blood,2007,Paul Thomas Anderson,drama,332440,158,27/09/2007,Feature Film,8.1,tt0469494,http://www.imdb.com/title/tt0469494/
+145,Whiplash,2014,Damien Chazelle,"drama, music",268649,107,16/01/2014,Feature Film,8.6,tt2582802,http://www.imdb.com/title/tt2582802/
+146,Breathless,1960,Jean-Luc Godard,"crime, drama, romance",46662,90,16/03/1960,Feature Film,8,tt0053472,http://www.imdb.com/title/tt0053472/
+147,Strangers on a Train,1951,Alfred Hitchcock,"crime, film_noir, thriller",85382,101,30/06/1951,Feature Film,8.1,tt0044079,http://www.imdb.com/title/tt0044079/
+148,The Hustler,1961,Robert Rossen,"drama, sport",58037,134,25/09/1961,Feature Film,8.1,tt0054997,http://www.imdb.com/title/tt0054997/
+149,The Departed,2006,Martin Scorsese,"crime, drama, thriller",766563,151,26/09/2006,Feature Film,8.5,tt0407887,http://www.imdb.com/title/tt0407887/
+150,The Deer Hunter,1978,Michael Cimino,"drama, war",210235,183,8/12/1978,Feature Film,8.2,tt0077416,http://www.imdb.com/title/tt0077416/
+151,Do the Right Thing,1989,Spike Lee,drama,54405,120,1989-05,Feature Film,7.9,tt0097216,http://www.imdb.com/title/tt0097216/
+152,The Sting,1973,George Roy Hill,"comedy, crime, drama",156156,129,25/12/1973,Feature Film,8.4,tt0070735,http://www.imdb.com/title/tt0070735/
+153,Network,1976,Sidney Lumet,drama,92021,121,14/11/1976,Feature Film,8.2,tt0074958,http://www.imdb.com/title/tt0074958/
+154,The Manchurian Candidate,1962,John Frankenheimer,thriller,58947,126,24/10/1962,Feature Film,8,tt0056218,http://www.imdb.com/title/tt0056218/
+155,Terminator 2: Judgment Day,1991,James Cameron,"action, sci_fi",661056,137,1/7/1991,Feature Film,8.5,tt0103064,http://www.imdb.com/title/tt0103064/
+156,The Big Sleep,1946,Howard Hawks,"crime, film_noir, mystery, thriller",59768,114,23/08/1946,Feature Film,8.1,tt0038355,http://www.imdb.com/title/tt0038355/
+157,Kind Hearts and Coronets,1949,Robert Hamer,"comedy, crime",23887,106,21/06/1949,Feature Film,8.2,tt0041546,http://www.imdb.com/title/tt0041546/
+158,American Beauty,1999,Sam Mendes,"drama, romance",737227,122,8/9/1999,Feature Film,8.4,tt0169547,http://www.imdb.com/title/tt0169547/
+159,Amelie,2001,Jean-Pierre Jeunet,"comedy, romance",475536,122,25/04/2001,Feature Film,8.4,tt0211915,http://www.imdb.com/title/tt0211915/
+160,The Philadelphia Story,1940,George Cukor,"comedy, romance",47161,112,23/12/1940,Feature Film,8.1,tt0032904,http://www.imdb.com/title/tt0032904/
+161,Before Sunrise,1995,Richard Linklater,"drama, romance",159488,105,27/01/1995,Feature Film,8.1,tt0112471,http://www.imdb.com/title/tt0112471/
+162,No Country for Old Men,2007,"Ethan Coen, Joel Coen","crime, drama, thriller",542534,122,19/05/2007,Feature Film,8.1,tt0477348,http://www.imdb.com/title/tt0477348/
+163,Fight Club,1999,David Fincher,drama,1181480,139,10/9/1999,Feature Film,8.9,tt0137523,http://www.imdb.com/title/tt0137523/
+164,Manhattan,1979,Woody Allen,"comedy, drama, romance",95652,96,25/04/1979,Feature Film,8,tt0079522,http://www.imdb.com/title/tt0079522/
+165,Full Metal Jacket,1987,Stanley Kubrick,"drama, war",426974,116,17/06/1987,Feature Film,8.3,tt0093058,http://www.imdb.com/title/tt0093058/
+166,Inception,2010,Christopher Nolan,"action, mystery, sci_fi, thriller",1277240,148,8/7/2010,Feature Film,8.8,tt1375666,http://www.imdb.com/title/tt1375666/
+167,Sweet Smell of Success,1957,Alexander Mackendrick,"drama, film_noir",18243,96,27/06/1957,Feature Film,8.2,tt0051036,http://www.imdb.com/title/tt0051036/
+168,Who's Afraid of Virginia Woolf?,1966,Mike Nichols,"drama, romance",50375,131,21/06/1966,Feature Film,8.1,tt0061184,http://www.imdb.com/title/tt0061184/
+169,12 Years a Slave,2013,Steve McQueen,"biography, drama, history",361208,134,30/08/2013,Feature Film,8.1,tt2024544,http://www.imdb.com/title/tt2024544/
+170,Dog Day Afternoon,1975,Sidney Lumet,"crime, drama",164931,125,21/09/1975,Feature Film,8.1,tt0072890,http://www.imdb.com/title/tt0072890/
+171,The Last Picture Show,1971,Peter Bogdanovich,drama,29133,118,3/10/1971,Feature Film,8.1,tt0067328,http://www.imdb.com/title/tt0067328/
+172,This Is Spinal Tap,1984,Rob Reiner,"comedy, music",99093,82,2/3/1984,Feature Film,8,tt0088258,http://www.imdb.com/title/tt0088258/
+173,Festen,1998,,drama,62181,105,1998-05,Feature Film,8.1,tt0154420,http://www.imdb.com/title/tt0154420/
+174,Se7en,1995,David Fincher,"drama, mystery, thriller",898784,127,22/09/1995,Feature Film,8.6,tt0114369,http://www.imdb.com/title/tt0114369/
+175,Le Samoura??,1967,Jean-Pierre Melville,"crime, drama, mystery, thriller",28176,105,25/10/1967,Feature Film,8.1,tt0062229,http://www.imdb.com/title/tt0062229/
+176,Days of Heaven,1978,Terrence Malick,"drama, romance",33698,94,13/09/1978,Feature Film,8,tt0077405,http://www.imdb.com/title/tt0077405/
+177,Rosemary's Baby,1968,Roman Polanski,"drama, horror",128826,136,12/6/1968,Feature Film,8,tt0063522,http://www.imdb.com/title/tt0063522/
+178,Mr. Smith Goes to Washington,1939,Frank Capra,drama,69731,129,17/10/1939,Feature Film,8.3,tt0031679,http://www.imdb.com/title/tt0031679/
+179,Anatomy of a Murder,1959,Otto Preminger,"crime, drama, mystery, thriller",40815,160,1/7/1959,Feature Film,8.1,tt0052561,http://www.imdb.com/title/tt0052561/
+180,The Man Who Shot Liberty Valance,1962,John Ford,"drama, western",49282,123,13/04/1962,Feature Film,8.1,tt0056217,http://www.imdb.com/title/tt0056217/
+181,The French Connection,1971,William Friedkin,"action, crime, drama, thriller",73606,104,7/10/1971,Feature Film,7.8,tt0067116,http://www.imdb.com/title/tt0067116/
+182,Die Hard,1988,John McTiernan,"action, thriller",530704,131,15/07/1988,Feature Film,8.3,tt0095016,http://www.imdb.com/title/tt0095016/
+183,Battleship Potemkin,1925,S.M. Eisenstein,"history, war",36861,75,24/12/1925,Feature Film,8,tt0015648,http://www.imdb.com/title/tt0015648/
+184,Duck Soup,1933,Leo McCarey,"comedy, musical, war",44778,68,17/11/1933,Feature Film,8,tt0023969,http://www.imdb.com/title/tt0023969/
+185,The Killing,1956,Stanley Kubrick,"crime, film_noir, thriller",56887,85,20/05/1956,Feature Film,8.1,tt0049406,http://www.imdb.com/title/tt0049406/
+186,High Noon,1952,Fred Zinnemann,"drama, thriller, western",72230,85,7/7/1952,Feature Film,8.1,tt0044706,http://www.imdb.com/title/tt0044706/
+187,Finding Nemo,2003,"Andrew Stanton, Lee Unkrich","animation, adventure, comedy, family",593920,100,30/05/2003,Feature Film,8.2,tt0266543,http://www.imdb.com/title/tt0266543/
+188,Let the Right One In,2008,Tomas Alfredson,"drama, horror, romance",161401,115,26/01/2008,Feature Film,8,tt1139797,http://www.imdb.com/title/tt1139797/
+189,His Girl Friday,1940,Howard Hawks,"comedy, drama, romance",38326,92,11/1/1940,Feature Film,8.1,tt0032599,http://www.imdb.com/title/tt0032599/
+190,Inside Out,2015,"Pete Docter, Ronaldo Del Carmen","animation, adventure, comedy, drama, family, fantasy",86806,94,18/05/2015,Feature Film,8.6,tt2096673,http://www.imdb.com/title/tt2096673/
+191,Rio Bravo,1959,Howard Hawks,"drama, romance, western",39479,141,18/03/1959,Feature Film,8.1,tt0053221,http://www.imdb.com/title/tt0053221/
+192,Oldboy,2003,Chan-wook Park,"drama, mystery, thriller",312197,120,21/11/2003,Feature Film,8.4,tt0364569,http://www.imdb.com/title/tt0364569/
+193,The Princess Bride,1987,Rob Reiner,"adventure, comedy, family, fantasy, romance",265011,98,18/09/1987,Feature Film,8.2,tt0093779,http://www.imdb.com/title/tt0093779/
+194,Les enfants du paradis,1945,Marcel Carn??,"drama, romance",13411,190,9/3/1945,Feature Film,8.3,tt0037674,http://www.imdb.com/title/tt0037674/
+195,Ugetsu monogatari,1953,Kenji Mizoguchi,"drama, fantasy, mystery",12964,96,26/03/1953,Feature Film,8.2,tt0046478,http://www.imdb.com/title/tt0046478/
+196,Throne of Blood,1957,Akira Kurosawa,"action, drama",26205,110,15/01/1957,Feature Film,8.2,tt0050613,http://www.imdb.com/title/tt0050613/
+197,Patton: A Salute to a Rebel,1970,Franklin J. Schaffner,"biography, drama, war",71451,172,4/2/1970,Feature Film,8,tt0066206,http://www.imdb.com/title/tt0066206/
+198,Harakiri,1962,Masaki Kobayashi,"action, drama, history",16647,133,16/09/1962,Feature Film,8.7,tt0056058,http://www.imdb.com/title/tt0056058/
+199,Downfall,2004,Oliver Hirschbiegel,"biography, drama, history, war",224476,156,8/9/2004,Feature Film,8.3,tt0363163,http://www.imdb.com/title/tt0363163/
+200,The Great Escape,1963,John Sturges,"adventure, drama, history, war",147863,172,20/06/1963,Feature Film,8.3,tt0057115,http://www.imdb.com/title/tt0057115/
+201,Life of Brian,1979,Terry Jones,comedy,243637,94,17/08/1979,Feature Film,8.1,tt0079470,http://www.imdb.com/title/tt0079470/
+202,Roman Holiday,1953,William Wyler,"comedy, romance",87778,118,27/08/1953,Feature Film,8.1,tt0046250,http://www.imdb.com/title/tt0046250/
+203,To Be or Not to Be,1942,Ernst Lubitsch,"comedy, war",17615,99,15/02/1942,Feature Film,8.2,tt0035446,http://www.imdb.com/title/tt0035446/
+204,All Quiet on the Western Front,1930,Lewis Milestone,"drama, war",44514,136,21/04/1930,Feature Film,8.1,tt0020629,http://www.imdb.com/title/tt0020629/
+205,Django Unchained,2012,Quentin Tarantino,western,808512,165,25/12/2012,Feature Film,8.5,tt1853728,http://www.imdb.com/title/tt1853728/
+206,Mad Max: Fury Road,2015,George Miller,"action, adventure, sci_fi, thriller",271092,120,7/5/2015,Feature Film,8.4,tt1392190,http://www.imdb.com/title/tt1392190/
+207,"Spring, Summer, Autumn, Winter... and Spring",2003,Ki-duk Kim,drama,55621,103,14/08/2003,Feature Film,8.1,tt0374546,http://www.imdb.com/title/tt0374546/
+208,Trainspotting,1996,Danny Boyle,drama,420452,94,23/02/1996,Feature Film,8.2,tt0117951,http://www.imdb.com/title/tt0117951/
+209,The Army of Shadows,1969,Jean-Pierre Melville,"drama, war",13574,145,12/9/1969,Feature Film,8.2,tt0064040,http://www.imdb.com/title/tt0064040/
+210,A Streetcar Named Desire,1951,Elia Kazan,drama,71905,122,18/09/1951,Feature Film,8.1,tt0044081,http://www.imdb.com/title/tt0044081/
+211,"Rome, Open City",1945,Roberto Rossellini,"drama, war",14927,103,27/09/1945,Feature Film,8.1,tt0038890,http://www.imdb.com/title/tt0038890/
+212,The Social Network,2010,David Fincher,"biography, drama",426295,120,24/09/2010,Feature Film,7.8,tt1285016,http://www.imdb.com/title/tt1285016/
+213,The Adventures of Robin Hood,1938,"Michael Curtiz, William Keighley","action, adventure, romance",36794,102,14/05/1938,Feature Film,8,tt0029843,http://www.imdb.com/title/tt0029843/
+214,The Man with No Name 2: For a Few Dollars More,1965,Sergio Leone,western,136072,132,18/12/1965,Feature Film,8.3,tt0059578,http://www.imdb.com/title/tt0059578/
+215,The King's Speech,2010,Tom Hooper,"biography, drama, history",436709,118,6/9/2010,Feature Film,8.1,tt1504320,http://www.imdb.com/title/tt1504320/
+216,The Mirror,1975,Andrey Tarkovskiy,"biography, drama, history",18365,108,7/3/1975,Feature Film,8.2,tt0072443,http://www.imdb.com/title/tt0072443/
+217,A Man Escaped,1956,Robert Bresson,"drama, thriller, war",10541,99,11/11/1956,Feature Film,8.2,tt0049902,http://www.imdb.com/title/tt0049902/
+218,The Hunt,2012,Thomas Vinterberg,drama,138114,115,20/05/2012,Feature Film,8.3,tt2106476,http://www.imdb.com/title/tt2106476/
+219,Young Frankenstein,1974,Mel Brooks,comedy,104756,106,15/12/1974,Feature Film,8.1,tt0072431,http://www.imdb.com/title/tt0072431/
+220,Sullivan's Travels,1941,Preston Sturges,"adventure, comedy, drama, romance",16516,90,5/12/1941,Feature Film,8.1,tt0034240,http://www.imdb.com/title/tt0034240/
+221,The Elephant Man,1980,David Lynch,"biography, drama",145929,124,3/10/1980,Feature Film,8.2,tt0080678,http://www.imdb.com/title/tt0080678/
+222,Blue Velvet,1986,David Lynch,"crime, drama, mystery, thriller",119512,120,1986-08,Feature Film,7.8,tt0090756,http://www.imdb.com/title/tt0090756/
+223,Au Revoir Les Enfants,1987,Louis Malle,"biography, drama, war",22083,104,29/08/1987,Feature Film,8.1,tt0092593,http://www.imdb.com/title/tt0092593/
+224,Forrest Gump,1994,Robert Zemeckis,"drama, romance",1082937,142,23/06/1994,Feature Film,8.8,tt0109830,http://www.imdb.com/title/tt0109830/
+225,The Graduate,1967,Mike Nichols,"comedy, drama, romance",194950,106,21/12/1967,Feature Film,8,tt0061722,http://www.imdb.com/title/tt0061722/
+226,Shadow of a Doubt,1943,Alfred Hitchcock,thriller,42061,108,12/1/1943,Feature Film,8,tt0036342,http://www.imdb.com/title/tt0036342/
+227,The Diving Bell and the Butterfly,2007,Julian Schnabel,"biography, drama",85621,112,22/05/2007,Feature Film,8,tt0401383,http://www.imdb.com/title/tt0401383/
+228,Viridiana,1961,Luis Bu?Òuel,drama,14718,90,19/05/1961,Feature Film,8.3,tt0055601,http://www.imdb.com/title/tt0055601/
+229,Incendies,2010,Denis Villeneuve,"drama, mystery, war",65469,139,4/9/2010,Feature Film,8.2,tt1255953,http://www.imdb.com/title/tt1255953/
+230,Boyhood,2014,Richard Linklater,drama,221281,165,19/01/2014,Feature Film,8,tt1065073,http://www.imdb.com/title/tt1065073/
+231,The Terminator,1984,James Cameron,"action, sci_fi",529347,107,26/10/1984,Feature Film,8.1,tt0088247,http://www.imdb.com/title/tt0088247/
+232,Butch Cassidy and the Sundance Kid,1969,George Roy Hill,"biography, crime, western",134986,110,23/09/1969,Feature Film,8.1,tt0064115,http://www.imdb.com/title/tt0064115/
+233,Night of the Living Dead,1968,George A. Romero,"drama, horror",81099,96,1/10/1968,Feature Film,8,tt0063350,http://www.imdb.com/title/tt0063350/
+234,Chungking Express,1994,Kar Wai Wong,"comedy, drama, romance",36426,102,1994-08,Feature Film,8.1,tt0109424,http://www.imdb.com/title/tt0109424/
+235,Beauty and the Beast,1946,Jean Cocteau,"fantasy, romance",17684,96,1946-09,Feature Film,8,tt0038348,http://www.imdb.com/title/tt0038348/
+236,Rififi,1955,Jules Dassin,"crime, drama, thriller",16999,122,13/04/1955,Feature Film,8.2,tt0048021,http://www.imdb.com/title/tt0048021/
+237,Bringing Up Baby,1938,Howard Hawks,"comedy, romance",42009,102,16/02/1938,Feature Film,8,tt0029947,http://www.imdb.com/title/tt0029947/
+238,Mary and Max,2009,Adam Elliot,"animation, comedy, drama",103183,92,15/01/2009,Feature Film,8.2,tt0978762,http://www.imdb.com/title/tt0978762/
+239,How to Train Your Dragon,2010,"Dean DeBlois, Chris Sanders","animation, adventure, family, fantasy",417716,98,18/03/2010,Feature Film,8.2,tt0892769,http://www.imdb.com/title/tt0892769/
+240,Los Olvidados,1950,Luis Bu?Òuel,"crime, drama",12417,85,9/11/1950,Feature Film,8.2,tt0042804,http://www.imdb.com/title/tt0042804/
+241,The Exterminating Angel,1962,Luis Bu?Òuel,"comedy, drama, fantasy, mystery",18026,95,1962-05,Feature Film,8.2,tt0056732,http://www.imdb.com/title/tt0056732/
+242,A Prophet,2009,Jacques Audiard,"crime, drama",73255,155,16/05/2009,Feature Film,7.9,tt1235166,http://www.imdb.com/title/tt1235166/
+243,Life Is Beautiful,1997,Roberto Benigni,"comedy, drama, romance",359841,116,20/12/1997,Feature Film,8.6,tt0118799,http://www.imdb.com/title/tt0118799/
+244,Amores perros,2000,Alejandro Gonz?≠lez I?Ò?≠rritu,"drama, thriller",156451,154,14/05/2000,Feature Film,8.1,tt0245712,http://www.imdb.com/title/tt0245712/
+245,The Matrix,1999,"The Wachowski Brothers, The Wachowski Brothers","action, sci_fi",1077062,136,31/03/1999,Feature Film,8.7,tt0133093,http://www.imdb.com/title/tt0133093/
+246,Heat,1995,Michael Mann,"action, crime, drama, thriller",389304,170,15/12/1995,Feature Film,8.3,tt0113277,http://www.imdb.com/title/tt0113277/
+247,Ratatouille,2007,"Brad Bird, Jan Pinkava","animation, comedy, family, fantasy",419978,111,22/06/2007,Feature Film,8,tt0382932,http://www.imdb.com/title/tt0382932/
+248,All About My Mother,1999,Pedro Almod??var,drama,64521,101,8/4/1999,Feature Film,7.9,tt0185125,http://www.imdb.com/title/tt0185125/
+249,Before Midnight,2013,Richard Linklater,"drama, romance",81522,109,20/01/2013,Feature Film,8,tt2209418,http://www.imdb.com/title/tt2209418/
+250,Nosferatu,1922,F.W. Murnau,horror,63213,94,17/02/1922,Feature Film,8,tt0013442,http://www.imdb.com/title/tt0013442/
+251,The Secret in Their Eyes,2009,Juan Jos?? Campanella,"drama, mystery, thriller",109813,129,13/08/2009,Feature Film,8.3,tt1305806,http://www.imdb.com/title/tt1305806/
+252,Persepolis,2007,"Vincent Paronnaud, Marjane Satrapi","animation, biography, drama, war",64474,96,23/05/2007,Feature Film,8,tt0808417,http://www.imdb.com/title/tt0808417/
+253,Memories of Murder,2003,Joon-ho Bong,"crime, drama, mystery, thriller",54942,130,2/5/2003,Feature Film,8.1,tt0353969,http://www.imdb.com/title/tt0353969/
+254,Sansh?? day?Ø,1954,Kenji Mizoguchi,drama,9352,124,31/03/1954,Feature Film,8.4,tt0047445,http://www.imdb.com/title/tt0047445/
+255,Hannah and Her Sisters,1986,Woody Allen,"comedy, drama",48056,103,7/2/1986,Feature Film,8,tt0091167,http://www.imdb.com/title/tt0091167/
+256,Being There,1979,Hal Ashby,"comedy, drama",48154,130,19/12/1979,Feature Film,8,tt0078841,http://www.imdb.com/title/tt0078841/
+257,The Killer,1989,John Woo,"action, crime, drama, thriller",36407,111,24/03/1989,Feature Film,7.9,tt0097202,http://www.imdb.com/title/tt0097202/
+258,The Artist,2011,Michel Hazanavicius,"comedy, drama, romance",174772,100,15/05/2011,Feature Film,8,tt1655442,http://www.imdb.com/title/tt1655442/
+259,The Leopard,1963,Luchino Visconti,"drama, history",14769,187,28/03/1963,Feature Film,8.1,tt0057091,http://www.imdb.com/title/tt0057091/
+260,Bonnie and Clyde,1967,Arthur Penn,"biography, crime, drama",73906,111,18/07/1967,Feature Film,7.9,tt0061418,http://www.imdb.com/title/tt0061418/
+261,Lagaan: Once Upon a Time in India,2001,Ashutosh Gowariker,"adventure, drama, musical, romance, sport",59783,224,15/06/2001,Feature Film,8.2,tt0169102,http://www.imdb.com/title/tt0169102/
+262,The Conformist,1970,Bernardo Bertolucci,drama,15482,111,1970-06,Feature Film,8.1,tt0065571,http://www.imdb.com/title/tt0065571/
+263,The Right Stuff,1983,Philip Kaufman,"adventure, drama, history",42271,193,21/10/1983,Feature Film,7.9,tt0086197,http://www.imdb.com/title/tt0086197/
+264,Harry Potter and the Deathly Hallows: Part 2,2011,David Yates,"adventure, drama, fantasy, mystery",468072,130,7/7/2011,Feature Film,8.1,tt1201607,http://www.imdb.com/title/tt1201607/
+265,The Straight Story,1999,David Lynch,"biography, drama",60079,112,21/05/1999,Feature Film,8,tt0166896,http://www.imdb.com/title/tt0166896/
+266,The Bride of Frankenstein,1935,James Whale,"horror, sci_fi",29410,75,22/04/1935,Feature Film,7.9,tt0026138,http://www.imdb.com/title/tt0026138/
+267,Indiana Jones and the Last Crusade,1989,Steven Spielberg,"action, adventure",455310,127,24/05/1989,Feature Film,8.3,tt0097576,http://www.imdb.com/title/tt0097576/
+268,Talk to Her,2002,Pedro Almod??var,"drama, mystery, romance",81392,112,15/03/2002,Feature Film,8,tt0287467,http://www.imdb.com/title/tt0287467/
+269,Good Will Hunting,1997,Gus Van Sant,drama,531553,126,2/12/1997,Feature Film,8.3,tt0119217,http://www.imdb.com/title/tt0119217/
+270,King Kong,1933,,"adventure, fantasy",61111,100,7/3/1933,Feature Film,8,tt0024216,http://www.imdb.com/title/tt0024216/
+271,Short Term 12,2013,Destin Daniel Cretton,drama,41838,96,10/3/2013,Feature Film,8,tt2370248,http://www.imdb.com/title/tt2370248/
+272,Beauty and the Beast,1991,"Gary Trousdale, Kirk Wise","animation, family, fantasy, musical, romance",269489,84,29/09/1991,Feature Film,8,tt0101414,http://www.imdb.com/title/tt0101414/
+273,Pather Panchali,1955,Satyajit Ray,drama,12012,119,26/08/1955,Feature Film,8.3,tt0048473,http://www.imdb.com/title/tt0048473/
+274,A Hard Day's Night,1964,Richard Lester,"comedy, musical",29315,87,6/7/1964,Feature Film,7.7,tt0058182,http://www.imdb.com/title/tt0058182/
+275,Ordet,1955,Carl Theodor Dreyer,"drama, fantasy",8955,126,10/1/1955,Feature Film,8.1,tt0048452,http://www.imdb.com/title/tt0048452/
+276,Laura,1944,Otto Preminger,"crime, drama, film_noir, mystery",28041,88,11/10/1944,Feature Film,8.1,tt0037008,http://www.imdb.com/title/tt0037008/
+277,Frankenstein,1931,James Whale,"horror, sci_fi",44176,70,21/11/1931,Feature Film,8,tt0021884,http://www.imdb.com/title/tt0021884/
+278,Repulsion,1965,Roman Polanski,"drama, horror, thriller",31672,105,1965-05,Feature Film,7.8,tt0059646,http://www.imdb.com/title/tt0059646/
+279,Stagecoach,1939,John Ford,"adventure, western",28275,96,15/02/1939,Feature Film,7.9,tt0031971,http://www.imdb.com/title/tt0031971/
+280,Infernal Affairs,2002,"Andrew Lau, Alan Mak","crime, mystery, thriller",82673,101,12/12/2002,Feature Film,8.1,tt0338564,http://www.imdb.com/title/tt0338564/
+281,Toy Story 2,1999,"John Lasseter, Ash Brannon","animation, adventure, comedy, family, fantasy",343206,92,13/11/1999,Feature Film,7.9,tt0120363,http://www.imdb.com/title/tt0120363/
+282,E.T. the Extra-Terrestrial,1982,Steven Spielberg,"family, sci_fi",257104,115,26/05/1982,Feature Film,7.9,tt0083866,http://www.imdb.com/title/tt0083866/
+283,Jurassic Park,1993,Steven Spielberg,"adventure, sci_fi, thriller",522818,127,9/6/1993,Feature Film,8.1,tt0107290,http://www.imdb.com/title/tt0107290/
+284,American History X,1998,Tony Kaye,"crime, drama",696840,119,30/10/1998,Feature Film,8.6,tt0120586,http://www.imdb.com/title/tt0120586/
+285,The Big Lebowski,1998,Joel Coen,"comedy, crime",475589,117,15/02/1998,Feature Film,8.2,tt0118715,http://www.imdb.com/title/tt0118715/
+286,The Iron Giant,1999,Brad Bird,"animation, action, adventure, comedy, drama, family, sci_fi",115722,86,31/07/1999,Feature Film,8,tt0129167,http://www.imdb.com/title/tt0129167/
+287,Woman in the Dunes,1964,Hiroshi Teshigahara,"drama, thriller",10040,123,15/02/1964,Feature Film,8.4,tt0058625,http://www.imdb.com/title/tt0058625/
+288,The Discreet Charm of the Bourgeoisie,1972,Luis Bunuel,"comedy, drama, fantasy",24752,102,15/09/1972,Feature Film,8,tt0068361,http://www.imdb.com/title/tt0068361/
+289,"4 Months, 3 Weeks & 2 Days",2007,Cristian Mungiu,drama,42381,113,17/05/2007,Feature Film,7.9,tt1032846,http://www.imdb.com/title/tt1032846/
+290,Halloween,1978,John Carpenter,"horror, thriller",143063,91,25/10/1978,Feature Film,7.9,tt0077651,http://www.imdb.com/title/tt0077651/
+291,Howl's Moving Castle,2004,Hayao Miyazaki,"animation, adventure, family, fantasy, romance",183340,119,5/9/2004,Feature Film,8.2,tt0347149,http://www.imdb.com/title/tt0347149/
+292,Harold and Maude,1971,Hal Ashby,"comedy, romance",52274,91,20/12/1971,Feature Film,8,tt0067185,http://www.imdb.com/title/tt0067185/
+293,L'Avventura,1960,Michelangelo Antonioni,"drama, mystery",15968,143,15/05/1960,Feature Film,8,tt0053619,http://www.imdb.com/title/tt0053619/
+294,Close Encounters of the Third Kind,1977,Steven Spielberg,"drama, sci_fi",127558,137,15/11/1977,Feature Film,7.7,tt0075860,http://www.imdb.com/title/tt0075860/
+295,Jules and Jim,1962,Fran??ois Truffaut,"drama, romance",25017,105,23/01/1962,Feature Film,7.9,tt0055032,http://www.imdb.com/title/tt0055032/
+296,Stand by Me,1986,Rob Reiner,"adventure, drama",243123,89,8/8/1986,Feature Film,8.1,tt0092005,http://www.imdb.com/title/tt0092005/
+297,Secrets & Lies,1996,Mike Leigh,drama,26481,142,24/05/1996,Feature Film,8,tt0117589,http://www.imdb.com/title/tt0117589/
+298,High and Low,1963,Akira Kurosawa,"crime, drama, mystery, thriller",16455,143,1/3/1963,Feature Film,8.4,tt0057565,http://www.imdb.com/title/tt0057565/
+299,Rope,1948,Alfred Hitchcock,"crime, drama, thriller",88062,80,23/08/1948,Feature Film,8,tt0040746,http://www.imdb.com/title/tt0040746/
+300,Brief Encounter,1945,David Lean,"drama, romance",24088,86,26/11/1945,Feature Film,8.1,tt0037558,http://www.imdb.com/title/tt0037558/
+301,In the Name of the Father,1993,Jim Sheridan,"biography, drama, history",95575,133,12/12/1993,Feature Film,8.1,tt0107207,http://www.imdb.com/title/tt0107207/
+302,Out of the Past,1947,Jacques Tourneur,"drama, film_noir, thriller",20844,97,13/11/1947,Feature Film,8.1,tt0039689,http://www.imdb.com/title/tt0039689/
+303,"Monsters, Inc.",2001,"Pete Docter, David Silverman","animation, adventure, comedy, family, fantasy",502925,92,28/10/2001,Feature Film,8.1,tt0198781,http://www.imdb.com/title/tt0198781/
+304,"Crouching Tiger, Hidden Dragon",2000,Ang Lee,"action, drama, romance",204503,120,16/05/2000,Feature Film,7.9,tt0190332,http://www.imdb.com/title/tt0190332/
+305,In the Heat of the Night,1967,Norman Jewison,"crime, drama, mystery, thriller",45070,109,2/8/1967,Feature Film,8,tt0061811,http://www.imdb.com/title/tt0061811/
+306,Midnight Cowboy,1969,John Schlesinger,drama,70556,113,25/05/1969,Feature Film,7.9,tt0064665,http://www.imdb.com/title/tt0064665/
+307,Stalag 17,1953,Billy Wilder,"comedy, drama, war",41270,120,29/05/1953,Feature Film,8.1,tt0046359,http://www.imdb.com/title/tt0046359/
+308,Amour,2012,Michael Haneke,"drama, romance",64029,127,20/05/2012,Feature Film,7.9,tt1602620,http://www.imdb.com/title/tt1602620/
+309,A Fistful of Dollars,1964,Sergio Leone,"action, drama, western",125247,99,12/9/1964,Feature Film,8.1,tt0058461,http://www.imdb.com/title/tt0058461/
+310,Sling Blade,1996,Billy Bob Thornton,drama,67888,135,30/08/1996,Feature Film,8.1,tt0117666,http://www.imdb.com/title/tt0117666/
+311,The Thing,1982,John Carpenter,"horror, sci_fi",228837,109,25/06/1982,Feature Film,8.2,tt0084787,http://www.imdb.com/title/tt0084787/
+312,Akira,1988,Katsuhiro Otomo,"animation, action, sci_fi",92052,124,16/07/1988,Feature Film,8.1,tt0094625,http://www.imdb.com/title/tt0094625/
+313,The Avengers,2012,Joss Whedon,"action, adventure, sci_fi",865761,143,11/4/2012,Feature Film,8.2,tt0848228,http://www.imdb.com/title/tt0848228/
+314,Nausica?? of the Valley of the Wind,1984,Hayao Miyazaki,"animation, adventure, fantasy, sci_fi",82176,117,11/3/1984,Feature Film,8.1,tt0087544,http://www.imdb.com/title/tt0087544/
+315,The Exorcist,1973,William Friedkin,horror,263177,122,26/12/1973,Feature Film,8,tt0070047,http://www.imdb.com/title/tt0070047/
+316,Requiem for a Dream,2000,Darren Aronofsky,drama,512746,102,14/05/2000,Feature Film,8.4,tt0180093,http://www.imdb.com/title/tt0180093/
+317,Gravity,2013,Alfonso Cuar??n,"sci_fi, thriller",517139,91,28/08/2013,Feature Film,7.9,tt1454468,http://www.imdb.com/title/tt1454468/
+318,3 Idiots,2009,Rajkumar Hirani,"comedy, drama",168104,170,23/12/2009,Feature Film,8.5,tt1187043,http://www.imdb.com/title/tt1187043/
+319,The Truman Show,1998,Peter Weir,drama,585061,103,1/6/1998,Feature Film,8.1,tt0120382,http://www.imdb.com/title/tt0120382/
+320,Once,2006,John Carney,"drama, music, romance",83385,85,15/07/2006,Feature Film,7.9,tt0907657,http://www.imdb.com/title/tt0907657/
+321,Inglourious Basterds,2009,Quentin Tarantino,"adventure, drama, war",758286,153,20/05/2009,Feature Film,8.3,tt0361748,http://www.imdb.com/title/tt0361748/
+322,"Hiroshima, My Love",1959,Alain Resnais,"drama, romance",17415,90,10/6/1959,Feature Film,8,tt0052893,http://www.imdb.com/title/tt0052893/
+323,Shaun of the Dead,2004,Edgar Wright,"comedy, horror",360326,99,29/03/2004,Feature Film,8,tt0365748,http://www.imdb.com/title/tt0365748/
+324,The Wrestler,2008,Darren Aronofsky,"drama, sport",239902,109,5/9/2008,Feature Film,7.9,tt1125849,http://www.imdb.com/title/tt1125849/
+325,Gangs of Wasseypur,2012,Anurag Kashyap,"action, crime, drama, thriller",34940,320,22/05/2012,Feature Film,8.4,tt1954470,http://www.imdb.com/title/tt1954470/
+326,Her,2013,Spike Jonze,"drama, romance, sci_fi",298158,126,12/10/2013,Feature Film,8,tt1798709,http://www.imdb.com/title/tt1798709/
+327,The Grand Budapest Hotel,2014,Wes Anderson,"adventure, comedy, drama",372208,99,6/2/2014,Feature Film,8.1,tt2278388,http://www.imdb.com/title/tt2278388/
+328,Platoon,1986,Oliver Stone,"drama, war",263169,120,19/12/1986,Feature Film,8.1,tt0091763,http://www.imdb.com/title/tt0091763/
+329,Crimes and Misdemeanors,1989,Woody Allen,"comedy, drama",39430,104,13/10/1989,Feature Film,8,tt0097123,http://www.imdb.com/title/tt0097123/
+330,The Insider,1999,Michael Mann,"biography, drama, thriller",125206,157,28/10/1999,Feature Film,7.9,tt0140352,http://www.imdb.com/title/tt0140352/
+331,Castle in the Sky,1986,Hayao Miyazaki,"animation, adventure, family, fantasy, romance",84331,124,2/8/1986,Feature Film,8.1,tt0092067,http://www.imdb.com/title/tt0092067/
+332,L??on: The Professional,1994,Luc Besson,"crime, drama, thriller",637409,110,14/09/1994,Feature Film,8.6,tt0110413,http://www.imdb.com/title/tt0110413/
+333,Umberto D.,1952,Vittorio De Sica,drama,15333,89,10/1/1952,Feature Film,8.2,tt0045274,http://www.imdb.com/title/tt0045274/
+334,Children of Men,2006,Alfonso Cuar??n,"drama, sci_fi, thriller",335169,109,3/9/2006,Feature Film,7.9,tt0206634,http://www.imdb.com/title/tt0206634/
+335,Yi Yi: A One and a Two...,2000,Edward Yang,"drama, music, romance",11604,173,14/05/2000,Feature Film,8.1,tt0244316,http://www.imdb.com/title/tt0244316/
+336,The Dark Knight Rises,2012,Christopher Nolan,"action, thriller",1001165,165,16/07/2012,Feature Film,8.5,tt1345836,http://www.imdb.com/title/tt1345836/
+337,Scarface,1983,Brian De Palma,"crime, drama",477217,170,1/12/1983,Feature Film,8.3,tt0086250,http://www.imdb.com/title/tt0086250/
+338,Z,1969,Costa-Gavras,"crime, drama, thriller",16400,127,26/02/1969,Feature Film,8.2,tt0065234,http://www.imdb.com/title/tt0065234/
+339,The Nightmare Before Christmas,1993,Henry Selick,"animation, family, fantasy, musical",202674,76,9/10/1993,Feature Film,8,tt0107688,http://www.imdb.com/title/tt0107688/
+340,Glengarry Glen Ross,1992,James Foley,drama,69746,100,16/09/1992,Feature Film,7.9,tt0104348,http://www.imdb.com/title/tt0104348/
+341,Rushmore,1998,Wes Anderson,"comedy, drama",124445,93,17/09/1998,Feature Film,7.7,tt0128445,http://www.imdb.com/title/tt0128445/
+342,Ben-Hur,1959,William Wyler,"adventure, drama, history, war",142197,212,18/11/1959,Feature Film,8.1,tt0052618,http://www.imdb.com/title/tt0052618/
+343,The Bourne Ultimatum,2007,Paul Greengrass,"action, thriller",434815,115,25/07/2007,Feature Film,8.1,tt0440963,http://www.imdb.com/title/tt0440963/
+344,Breaking the Waves,1996,Lars Von Trier,"drama, romance",45097,159,18/05/1996,Feature Film,7.9,tt0115751,http://www.imdb.com/title/tt0115751/
+345,A Woman Under the Influence,1974,John Cassavetes,drama,12118,155,20/09/1974,Feature Film,8.2,tt0072417,http://www.imdb.com/title/tt0072417/
+346,Belle de Jour,1967,Luis Bunuel,drama,26570,101,24/05/1967,Feature Film,7.8,tt0061395,http://www.imdb.com/title/tt0061395/
+347,A Matter of Life and Death,1946,"Michael Powell, Emeric Pressburger","drama, fantasy, romance, war",12579,104,1/11/1946,Feature Film,8.1,tt0038733,http://www.imdb.com/title/tt0038733/
+348,Rebel Without a Cause,1955,Nicholas Ray,drama,58055,111,27/10/1955,Feature Film,7.8,tt0048545,http://www.imdb.com/title/tt0048545/
+349,The Return,2003,Andrey Zvyagintsev,"drama, mystery, thriller",29058,105,25/06/2003,Feature Film,8,tt0376968,http://www.imdb.com/title/tt0376968/
+350,White Heat,1949,Raoul Walsh,"crime, drama, film_noir",19014,114,2/9/1949,Feature Film,8.2,tt0042041,http://www.imdb.com/title/tt0042041/
+351,Being John Malkovich,1999,Spike Jonze,"comedy, drama, fantasy",236785,112,2/9/1999,Feature Film,7.8,tt0120601,http://www.imdb.com/title/tt0120601/
+352,Cabaret,1972,Bob Fosse,"drama, musical, romance",33825,124,13/02/1972,Feature Film,7.9,tt0068327,http://www.imdb.com/title/tt0068327/
+353,Raise the Red Lantern,1991,Yimou Zhang,drama,19197,125,10/9/1991,Feature Film,8.2,tt0101640,http://www.imdb.com/title/tt0101640/
+354,Underground,1995,Emir Kusturica,"comedy, drama, war",39613,170,1/4/1995,Feature Film,8.2,tt0114787,http://www.imdb.com/title/tt0114787/
+355,Million Dollar Baby,2004,Clint Eastwood,"drama, sport",426416,132,15/12/2004,Feature Film,8.1,tt0405159,http://www.imdb.com/title/tt0405159/
+356,Playtime,1967,Jacques Tati,comedy,11503,115,16/12/1967,Feature Film,8,tt0062136,http://www.imdb.com/title/tt0062136/
+357,Groundhog Day,1993,Harold Ramis,"comedy, romance",385500,101,12/2/1993,Feature Film,8.1,tt0107048,http://www.imdb.com/title/tt0107048/
+358,Withnail and I,1987,Bruce Robinson,"comedy, drama",28418,107,27/03/1987,Feature Film,7.8,tt0094336,http://www.imdb.com/title/tt0094336/
+359,Miller's Crossing,1990,Joel Coen,"crime, drama, thriller",96477,115,1990-08,Feature Film,7.9,tt0100150,http://www.imdb.com/title/tt0100150/
+360,Argo,2012,Ben Affleck,"drama, history, thriller",404152,120,31/08/2012,Feature Film,7.8,tt1024648,http://www.imdb.com/title/tt1024648/
+361,Boogie Nights,1997,Paul Thomas Anderson,drama,173792,155,11/9/1997,Feature Film,7.9,tt0118749,http://www.imdb.com/title/tt0118749/
+362,Ghost in the Shell,1995,Mamoru Oshii,"animation, action, mystery, sci_fi, thriller",69554,83,18/11/1995,Feature Film,8,tt0113568,http://www.imdb.com/title/tt0113568/
+363,Freaks,1932,Tod Browning,"drama, horror",29723,64,20/02/1932,Feature Film,8,tt0022913,http://www.imdb.com/title/tt0022913/
+364,Aladdin,1992,"Ron Clements, John Musker","animation, adventure, comedy, family, fantasy, musical, romance",229878,90,11/11/1992,Feature Film,8,tt0103639,http://www.imdb.com/title/tt0103639/
+365,Safety Last!,1923,"Fred Neymeyer, Sam Taylor","comedy, romance, thriller",11775,70,1/4/1923,Feature Film,8.3,tt0014429,http://www.imdb.com/title/tt0014429/
+366,The African Queen,1951,John Huston,"adventure, romance, war",55154,105,23/12/1951,Feature Film,7.9,tt0043265,http://www.imdb.com/title/tt0043265/
+367,The Thin Man,1934,W.S. Van Dyke,"comedy, crime, mystery",19329,91,25/05/1934,Feature Film,8.2,tt0025878,http://www.imdb.com/title/tt0025878/
+368,Kiki's Delivery Service,1989,Hayao Miyazaki,"animation, adventure, drama, family, fantasy",66020,103,29/07/1989,Feature Film,7.9,tt0097814,http://www.imdb.com/title/tt0097814/
+369,Moonrise Kingdom,2012,Wes Anderson,"adventure, comedy, drama, romance",213414,94,16/05/2012,Feature Film,7.8,tt1748122,http://www.imdb.com/title/tt1748122/
+370,Hotel Rwanda,2004,Terry George,"drama, history, war",238029,121,11/9/2004,Feature Film,8.2,tt0395169,http://www.imdb.com/title/tt0395169/
+371,Cries and Whispers,1972,Ingmar Bergman,drama,18127,91,21/12/1972,Feature Film,8.2,tt0069467,http://www.imdb.com/title/tt0069467/
+372,The Remains of the Day,1993,James Ivory,"drama, romance",42378,134,5/11/1993,Feature Film,7.9,tt0107943,http://www.imdb.com/title/tt0107943/
+373,Almost Famous,2000,Cameron Crowe,"drama, music, romance",191608,122,8/9/2000,Feature Film,7.9,tt0181875,http://www.imdb.com/title/tt0181875/
+374,Evil Dead II,1987,Sam Raimi,"comedy, horror",101170,84,13/03/1987,Feature Film,7.8,tt0092991,http://www.imdb.com/title/tt0092991/
+375,Slumdog Millionaire,2008,"Danny Boyle, Loveleen Tandan","drama, romance",583476,120,30/08/2008,Feature Film,8,tt1010048,http://www.imdb.com/title/tt1010048/
+376,Magnolia,1999,Paul Thomas Anderson,drama,227520,188,8/12/1999,Feature Film,8,tt0175880,http://www.imdb.com/title/tt0175880/
+377,The Lady Vanishes,1938,Alfred Hitchcock,"comedy, mystery, thriller",33426,96,7/10/1938,Feature Film,8,tt0030341,http://www.imdb.com/title/tt0030341/
+378,Mean Streets,1973,Martin Scorsese,"crime, drama",62604,112,2/10/1973,Feature Film,7.4,tt0070379,http://www.imdb.com/title/tt0070379/
+379,Gandhi,1982,Richard Attenborough,"biography, drama, history",152262,191,30/11/1982,Feature Film,8.1,tt0083987,http://www.imdb.com/title/tt0083987/
+380,Flying High,1980,"Jim Abrahams, David Zucker",comedy,145920,88,2/7/1980,Feature Film,7.8,tt0080339,http://www.imdb.com/title/tt0080339/
+381,Mulholland Dr.,2001,David Lynch,"drama, mystery, thriller",216090,147,16/05/2001,Feature Film,8,tt0166924,http://www.imdb.com/title/tt0166924/
+382,The 39 Steps,1935,Alfred Hitchcock,"mystery, thriller",37265,86,6/6/1935,Feature Film,7.9,tt0026029,http://www.imdb.com/title/tt0026029/
+383,Ace in the Hole,1951,Billy Wilder,"drama, film_noir",17305,111,14/06/1951,Feature Film,8.2,tt0043338,http://www.imdb.com/title/tt0043338/
+384,The Life and Death of Colonel Blimp,1943,"Michael Powell, Emeric Pressburger","drama, romance, war",9382,163,10/6/1943,Feature Film,8.2,tt0036112,http://www.imdb.com/title/tt0036112/
+385,Judgment at Nuremberg,1961,Stanley Kramer,"drama, history, war",37842,186,14/12/1961,Feature Film,8.3,tt0055031,http://www.imdb.com/title/tt0055031/
+386,Goldfinger,1964,Guy Hamilton,"action, adventure, thriller",127494,110,17/09/1964,Feature Film,7.8,tt0058150,http://www.imdb.com/title/tt0058150/
+387,Batman Begins,2005,Christopher Nolan,"action, adventure",853919,140,10/6/2005,Feature Film,8.3,tt0372784,http://www.imdb.com/title/tt0372784/
+388,Lost in Translation,2003,Sofia Coppola,drama,297201,101,29/08/2003,Feature Film,7.8,tt0335266,http://www.imdb.com/title/tt0335266/
+389,Casino Royale,2006,Martin Campbell,"action, adventure, thriller",409339,144,14/11/2006,Feature Film,8,tt0381061,http://www.imdb.com/title/tt0381061/
+390,A Night at the Opera,1935,Sam Wood,"comedy, music, musical",23439,96,8/11/1935,Feature Film,8.1,tt0026778,http://www.imdb.com/title/tt0026778/
+391,Spartacus,1960,Stanley Kubrick,"adventure, biography, drama, history, war",91156,197,6/10/1960,Feature Film,8,tt0054331,http://www.imdb.com/title/tt0054331/
+392,Arsenic and Old Lace,1944,Frank Capra,"comedy, crime",51504,118,1/9/1944,Feature Film,8.1,tt0036613,http://www.imdb.com/title/tt0036613/
+393,The Prestige,2006,Christopher Nolan,"drama, mystery, thriller",736283,130,17/10/2006,Feature Film,8.5,tt0482571,http://www.imdb.com/title/tt0482571/
+394,Star Trek,2009,J.J. Abrams,"action, adventure, sci_fi",469417,127,6/4/2009,Feature Film,8,tt0796366,http://www.imdb.com/title/tt0796366/
+395,The Hole,1960,Jacques Becker,"crime, drama, thriller",8202,132,18/03/1960,Feature Film,8.5,tt0054407,http://www.imdb.com/title/tt0054407/
+396,The Lost Weekend,1945,Billy Wilder,drama,22810,101,16/11/1945,Feature Film,8.1,tt0037884,http://www.imdb.com/title/tt0037884/
+397,The Shop Around the Corner,1940,Ernst Lubitsch,"comedy, drama, romance",18390,99,12/1/1940,Feature Film,8.1,tt0033045,http://www.imdb.com/title/tt0033045/
+398,Blood Simple.,1984,Joel Coen,"crime, thriller",62322,99,7/9/1984,Feature Film,7.7,tt0086979,http://www.imdb.com/title/tt0086979/
+399,Invasion of the Body Snatchers,1956,Don Siegel,"horror, sci_fi",31472,80,5/2/1956,Feature Film,7.8,tt0049366,http://www.imdb.com/title/tt0049366/
+400,My Left Foot,1989,Jim Sheridan,"biography, drama",45632,103,24/02/1989,Feature Film,7.9,tt0097937,http://www.imdb.com/title/tt0097937/
+401,Charade,1963,Stanley Donen,"comedy, mystery, romance, thriller",45672,113,5/12/1963,Feature Film,8,tt0056923,http://www.imdb.com/title/tt0056923/
+402,Who Framed Roger Rabbit,1988,Robert Zemeckis,"animation, comedy, crime, family, fantasy",126103,104,21/06/1988,Feature Film,7.7,tt0096438,http://www.imdb.com/title/tt0096438/
+403,Sleuth,1972,Joseph L. Mankiewicz,"mystery, thriller",35217,138,10/12/1972,Feature Film,8.1,tt0069281,http://www.imdb.com/title/tt0069281/
+404,The Incredibles,2004,Brad Bird,"animation, adventure, family",424748,115,27/10/2004,Feature Film,8,tt0317705,http://www.imdb.com/title/tt0317705/
+405,Sense and Sensibility,1995,Ang Lee,"drama, romance",71287,131,13/12/1995,Feature Film,7.7,tt0114388,http://www.imdb.com/title/tt0114388/
+406,Star Wars: Episode VI - Return of the Jedi,1983,Richard Marquand,"action, adventure, fantasy, sci_fi",558768,134,25/05/1983,Feature Film,8.4,tt0086190,http://www.imdb.com/title/tt0086190/
+407,Hot Fuzz,2007,Edgar Wright,"action, comedy",319525,121,14/02/2007,Feature Film,7.9,tt0425112,http://www.imdb.com/title/tt0425112/
+408,The Best of Youth,2003,Marco Tullio Giordana,"drama, romance",15344,383,19/05/2003,Feature Film,8.5,tt0346336,http://www.imdb.com/title/tt0346336/
+409,And Your Mother Too!,2001,Alfonso Cuar??n,"adventure, comedy, drama",85469,106,8/6/2001,Feature Film,7.7,tt0245574,http://www.imdb.com/title/tt0245574/
+410,Ghost Busters,1984,Ivan Reitman,"comedy, fantasy",237441,105,7/6/1984,Feature Film,7.8,tt0087332,http://www.imdb.com/title/tt0087332/
+411,Fantasia,1940,Norm Ferguson,"animation, family, fantasy, music",66166,125,13/11/1940,Feature Film,7.8,tt0032455,http://www.imdb.com/title/tt0032455/
+412,Guardians of the Galaxy,2014,James Gunn,"action, adventure, sci_fi",532048,121,21/07/2014,Feature Film,8.1,tt2015381,http://www.imdb.com/title/tt2015381/
+413,The Intouchables,2011,"Olivier Nakache, Eric Toledano","biography, comedy, drama",419132,112,23/09/2011,Feature Film,8.6,tt1675434,http://www.imdb.com/title/tt1675434/
+414,Dazed and Confused,1993,Richard Linklater,comedy,107234,102,1993-08,Feature Film,7.7,tt0106677,http://www.imdb.com/title/tt0106677/
+415,Blazing Saddles,1974,Mel Brooks,"comedy, western",87484,93,7/2/1974,Feature Film,7.8,tt0071230,http://www.imdb.com/title/tt0071230/
+416,Letters from Iwo Jima,2006,Clint Eastwood,"drama, history, war",125481,141,15/11/2006,Feature Film,8,tt0498380,http://www.imdb.com/title/tt0498380/
+417,Amarcord,1973,Federico Fellini,"comedy, drama",26884,123,13/12/1973,Feature Film,8,tt0071129,http://www.imdb.com/title/tt0071129/
+418,The Day the Earth Stood Still,1951,Robert Wise,sci_fi,60740,92,18/09/1951,Feature Film,7.8,tt0043456,http://www.imdb.com/title/tt0043456/
+419,Day for Night,1973,Fran??ois Truffaut,"comedy, drama, romance",13181,115,14/05/1973,Feature Film,8,tt0070460,http://www.imdb.com/title/tt0070460/
+420,The Hurt Locker,2008,Kathryn Bigelow,"drama, history, thriller, war",298328,131,4/9/2008,Feature Film,7.6,tt0887912,http://www.imdb.com/title/tt0887912/
+421,The Triplets of Belleville,2003,Sylvain Chomet,"animation, comedy, drama",39521,78,18/05/2003,Feature Film,7.8,tt0286244,http://www.imdb.com/title/tt0286244/
+422,The Green Mile,1999,Frank Darabont,"crime, drama, fantasy, mystery",675815,189,6/12/1999,Feature Film,8.5,tt0120689,http://www.imdb.com/title/tt0120689/
+423,Hard-Boiled,1992,John Woo,"action, crime, drama, thriller",36394,128,16/04/1992,Feature Film,7.9,tt0104684,http://www.imdb.com/title/tt0104684/
+424,The Spirit of the Beehive,1973,V??ctor Erice,"drama, fantasy",10890,97,8/10/1973,Feature Film,8,tt0070040,http://www.imdb.com/title/tt0070040/
+425,Dial M for Murder,1954,Alfred Hitchcock,"crime, thriller",92627,105,28/05/1954,Feature Film,8.2,tt0046912,http://www.imdb.com/title/tt0046912/
+426,Black Swan,2010,Darren Aronofsky,"drama, thriller",502198,108,1/9/2010,Feature Film,8,tt0947798,http://www.imdb.com/title/tt0947798/
+427,The Killing Fields,1984,Roland Joff??,"drama, history, war",39807,141,2/11/1984,Feature Film,7.9,tt0087553,http://www.imdb.com/title/tt0087553/
+428,Like Stars on Earth,2007,Aamir Khan,"drama, family, music",74788,165,21/12/2007,Feature Film,8.5,tt0986264,http://www.imdb.com/title/tt0986264/
+429,Dirty Harry,1971,Don Siegel,"action, crime, thriller",106880,102,22/12/1971,Feature Film,7.8,tt0066999,http://www.imdb.com/title/tt0066999/
+430,The King of Comedy,1982,Martin Scorsese,"comedy, drama",46613,109,18/12/1982,Feature Film,7.8,tt0085794,http://www.imdb.com/title/tt0085794/
+431,Nashville,1975,Robert Altman,"drama, music",16054,159,11/6/1975,Feature Film,7.8,tt0073440,http://www.imdb.com/title/tt0073440/
+432,Boyz n the Hood,1991,John Singleton,"crime, drama",84334,112,2/7/1991,Feature Film,7.8,tt0101507,http://www.imdb.com/title/tt0101507/
+433,The Sixth Sense,1999,M. Night Shyamalan,"drama, mystery, thriller",632868,107,2/8/1999,Feature Film,8.2,tt0167404,http://www.imdb.com/title/tt0167404/
+434,Fantastic Mr. Fox,2009,Wes Anderson,"animation, adventure, comedy, crime, family",123019,87,14/10/2009,Feature Film,7.8,tt0432283,http://www.imdb.com/title/tt0432283/
+435,Iron Man,2008,Jon Favreau,"action, adventure, sci_fi",612414,126,14/04/2008,Feature Film,7.9,tt0371746,http://www.imdb.com/title/tt0371746/
+436,Rang De Basanti,2006,Rakesh Omprakash Mehra,"comedy, drama, history, music, romance",60524,157,26/01/2006,Feature Film,8.4,tt0405508,http://www.imdb.com/title/tt0405508/
+437,The Player,1992,Robert Altman,"comedy, crime, drama, mystery, romance, thriller",38985,124,3/4/1992,Feature Film,7.7,tt0105151,http://www.imdb.com/title/tt0105151/
+438,The Fugitive,1993,Andrew Davis,"action, adventure, crime, mystery, thriller",198515,130,6/8/1993,Feature Film,7.8,tt0106977,http://www.imdb.com/title/tt0106977/
+439,The Lady Eve,1941,Preston Sturges,"comedy, romance",13501,94,25/02/1941,Feature Film,8,tt0033804,http://www.imdb.com/title/tt0033804/
+440,Elite Squad: The Enemy Within,2010,Jos?? Padilha,"action, crime, drama, thriller",59020,115,8/10/2010,Feature Film,8.1,tt1555149,http://www.imdb.com/title/tt1555149/
+441,Casino,1995,Martin Scorsese,"biography, crime, drama",295357,178,14/11/1995,Feature Film,8.2,tt0112641,http://www.imdb.com/title/tt0112641/
+442,Blue Is the Warmest Color,2013,Abdellatif Kechiche,"drama, romance",73988,179,23/05/2013,Feature Film,7.9,tt2278871,http://www.imdb.com/title/tt2278871/
+443,My Fair Lady,1964,George Cukor,"drama, family, musical, romance",61291,170,21/10/1964,Feature Film,7.9,tt0058385,http://www.imdb.com/title/tt0058385/
+444,A Christmas Story,1983,Bob Clark,"comedy, family",99145,94,18/11/1983,Feature Film,8.1,tt0085334,http://www.imdb.com/title/tt0085334/
+445,Serpico,1973,Sidney Lumet,"biography, crime, drama",70237,130,5/12/1973,Feature Film,7.8,tt0070666,http://www.imdb.com/title/tt0070666/
+446,Into the Wild,2007,Sean Penn,"adventure, biography, drama",374124,148,1/9/2007,Feature Film,8.2,tt0758758,http://www.imdb.com/title/tt0758758/
+447,Barton Fink,1991,Joel Coen,"comedy, drama",81194,116,1991-05,Feature Film,7.7,tt0101410,http://www.imdb.com/title/tt0101410/
+448,Drive,2011,Nicolas Winding Refn,"crime, drama",395530,100,20/05/2011,Feature Film,7.8,tt0780504,http://www.imdb.com/title/tt0780504/
+449,Mary Poppins,1964,Robert Stevenson,"comedy, family, fantasy, musical",95356,139,27/08/1964,Feature Film,7.8,tt0058331,http://www.imdb.com/title/tt0058331/
+450,This Is England,2006,Shane Meadows,"crime, drama",92909,101,12/9/2006,Feature Film,7.7,tt0480025,http://www.imdb.com/title/tt0480025/
+451,Ed Wood,1994,Tim Burton,"biography, comedy, drama",135228,127,23/09/1994,Feature Film,7.9,tt0109707,http://www.imdb.com/title/tt0109707/
+452,The Sound of Music,1965,Robert Wise,"biography, drama, family, musical, romance",133356,174,2/3/1965,Feature Film,8,tt0059742,http://www.imdb.com/title/tt0059742/
+453,The Lego Movie,2014,"Phil Lord, Christopher Miller","animation, action, adventure, comedy, family, fantasy",217126,100,1/2/2014,Feature Film,7.8,tt1490017,http://www.imdb.com/title/tt1490017/
+454,Enter the Dragon,1973,Robert Clouse,"action, crime, drama, thriller",73147,102,26/07/1973,Feature Film,7.7,tt0070034,http://www.imdb.com/title/tt0070034/
+455,Mad Max 2,1981,George Miller,"action, adventure, sci_fi, thriller",118402,95,24/12/1981,Feature Film,7.6,tt0082694,http://www.imdb.com/title/tt0082694/
+456,Rain Man,1988,Barry Levinson,drama,358256,133,12/12/1988,Feature Film,8,tt0095953,http://www.imdb.com/title/tt0095953/
+457,Moon,2009,Duncan Jones,"drama, sci_fi",231821,97,23/01/2009,Feature Film,8,tt1182345,http://www.imdb.com/title/tt1182345/
+458,The Birds,1963,Alfred Hitchcock,horror,116992,119,28/03/1963,Feature Film,7.8,tt0056869,http://www.imdb.com/title/tt0056869/
+459,Fitzcarraldo,1982,Werner Herzog,"adventure, biography, drama",19962,158,4/3/1982,Feature Film,8.2,tt0083946,http://www.imdb.com/title/tt0083946/
+460,The Breakfast Club,1985,John Hughes,"comedy, drama",229784,97,7/2/1985,Feature Film,7.9,tt0088847,http://www.imdb.com/title/tt0088847/
+461,Warrior,2011,Gavin O'Connor,"drama, sport",289069,140,9/9/2011,Feature Film,8.2,tt1291584,http://www.imdb.com/title/tt1291584/
+462,Captain Phillips,2013,Paul Greengrass,"biography, drama, thriller",291946,134,27/09/2013,Feature Film,7.9,tt1535109,http://www.imdb.com/title/tt1535109/
+463,Twelve Monkeys,1995,Terry Gilliam,"mystery, sci_fi, thriller",416963,129,27/12/1995,Feature Film,8.1,tt0114746,http://www.imdb.com/title/tt0114746/
+464,Catch Me If You Can,2002,Steven Spielberg,"biography, crime, drama",435387,141,16/12/2002,Feature Film,8,tt0264464,http://www.imdb.com/title/tt0264464/
+465,The Cranes Are Flying,1957,Mikhail Kalatozov,"drama, romance, war",9237,97,12/10/1957,Feature Film,8.2,tt0050634,http://www.imdb.com/title/tt0050634/
+466,Edward Scissorhands,1990,Tim Burton,"drama, fantasy, romance",325523,105,6/12/1990,Feature Film,8,tt0099487,http://www.imdb.com/title/tt0099487/
+467,Peeping Tom,1960,Michael Powell,"drama, horror, thriller",20150,101,7/4/1960,Feature Film,7.8,tt0054167,http://www.imdb.com/title/tt0054167/
+468,What Ever Happened to Baby Jane?,1962,Robert Aldrich,"drama, thriller",27775,134,26/10/1962,Feature Film,8.1,tt0056687,http://www.imdb.com/title/tt0056687/
+469,True Grit,2010,"Ethan Coen, Joel Coen","adventure, drama, western",219269,110,14/12/2010,Feature Film,7.7,tt1403865,http://www.imdb.com/title/tt1403865/
+470,Adaptation.,2002,Spike Jonze,"comedy, drama",133331,114,6/12/2002,Feature Film,7.7,tt0268126,http://www.imdb.com/title/tt0268126/
+471,Glory,1989,Edward Zwick,"drama, history, war",96904,122,15/12/1989,Feature Film,7.9,tt0097441,http://www.imdb.com/title/tt0097441/
+472,Eraserhead,1977,David Lynch,"horror, sci_fi",61681,89,19/03/1977,Feature Film,7.4,tt0074486,http://www.imdb.com/title/tt0074486/
+473,My Darling Clementine,1946,John Ford,"drama, western",15154,97,16/10/1946,Feature Film,7.8,tt0038762,http://www.imdb.com/title/tt0038762/
+474,Gegen die Wand,2004,Fatih Akin,"drama, romance",38755,121,12/2/2004,Feature Film,8,tt0347048,http://www.imdb.com/title/tt0347048/
+475,The Last Emperor,1987,Bernardo Bertolucci,"biography, drama, history",64150,163,4/10/1987,Feature Film,7.8,tt0093389,http://www.imdb.com/title/tt0093389/
+476,The Sea Inside,2004,Alejandro Amen?≠bar,"biography, drama, romance",60106,125,3/9/2004,Feature Film,8.1,tt0369702,http://www.imdb.com/title/tt0369702/
+477,The Fighter,2010,David O. Russell,"biography, drama, sport",250900,116,10/12/2010,Feature Film,7.9,tt0964517,http://www.imdb.com/title/tt0964517/
+478,The Outlaw Josey Wales,1976,Clint Eastwood,western,46436,135,26/06/1976,Feature Film,7.9,tt0075029,http://www.imdb.com/title/tt0075029/
+479,Dallas Buyers Club,2013,Jean-Marc Vall??e,"biography, drama",279540,117,7/9/2013,Feature Film,8,tt0790636,http://www.imdb.com/title/tt0790636/
+480,13 Assassins,2010,Takashi Miike,"action, adventure, drama",46909,141,9/9/2010,Feature Film,7.6,tt1436045,http://www.imdb.com/title/tt1436045/
+481,Wild Tales,2014,Dami?≠n Szifron,"comedy, drama, thriller",48265,122,17/05/2014,Feature Film,8.2,tt3011894,http://www.imdb.com/title/tt3011894/
+482,3-Iron,2004,Ki-duk Kim,"crime, drama, romance",35871,88,7/9/2004,Feature Film,8.1,tt0423866,http://www.imdb.com/title/tt0423866/
+483,Suspiria,1977,Dario Argento,"horror, mystery",41056,98,1/2/1977,Feature Film,7.5,tt0076786,http://www.imdb.com/title/tt0076786/
+484,Gladiator,2000,Ridley Scott,"action, drama",865467,155,1/5/2000,Feature Film,8.5,tt0172495,http://www.imdb.com/title/tt0172495/
+485,The Man Who Would Be King,1975,John Huston,adventure,33908,129,17/12/1975,Feature Film,7.9,tt0073341,http://www.imdb.com/title/tt0073341/
+486,Pickpocket,1959,Robert Bresson,"crime, drama",11851,75,16/12/1959,Feature Film,7.9,tt0053168,http://www.imdb.com/title/tt0053168/
+487,Skyfall,2012,Sam Mendes,"action, adventure, thriller",455615,143,23/10/2012,Feature Film,7.8,tt1074638,http://www.imdb.com/title/tt1074638/
+488,Little Miss Sunshine,2006,"Jonathan Dayton, Valerie Faris","comedy, drama",326867,101,20/01/2006,Feature Film,7.9,tt0449059,http://www.imdb.com/title/tt0449059/
+489,Kill Bill: Vol. 2,2004,Quentin Tarantino,"action, crime, thriller",459983,137,16/04/2004,Feature Film,8,tt0378194,http://www.imdb.com/title/tt0378194/
+490,The Producers,1967,Mel Brooks,comedy,37141,88,22/11/1967,Feature Film,7.7,tt0063462,http://www.imdb.com/title/tt0063462/
+491,The Station Agent,2003,Tom Mccarthy,"comedy, drama",53848,89,26/01/2003,Feature Film,7.7,tt0340377,http://www.imdb.com/title/tt0340377/
+492,True Romance,1993,Tony Scott,"crime, drama, thriller",150346,120,10/9/1993,Feature Film,8,tt0108399,http://www.imdb.com/title/tt0108399/
+493,Down by Law,1986,Jim Jarmusch,"comedy, crime, drama",33314,107,1986-05,Feature Film,7.9,tt0090967,http://www.imdb.com/title/tt0090967/
+494,Battle Royale,2000,Kinji Fukasaku,"action, drama, sci_fi, thriller",129208,114,16/12/2000,Feature Film,7.8,tt0266308,http://www.imdb.com/title/tt0266308/
+495,Volver,2006,Pedro Almod??var,"comedy, crime, drama, mystery",71121,121,10/3/2006,Feature Film,7.6,tt0441909,http://www.imdb.com/title/tt0441909/
+496,JFK,1991,Oliver Stone,"drama, history, thriller",106465,189,20/12/1991,Feature Film,8,tt0102138,http://www.imdb.com/title/tt0102138/
+497,The Dirty Dozen,1967,Robert Aldrich,"action, adventure, thriller, war",49133,150,15/06/1967,Feature Film,7.8,tt0061578,http://www.imdb.com/title/tt0061578/
+498,Brokeback Mountain,2005,Ang Lee,"drama, romance",240785,134,2/9/2005,Feature Film,7.7,tt0388795,http://www.imdb.com/title/tt0388795/
+499,L'Atalante,1934,Jean Vigo,"drama, romance",9603,89,24/04/1934,Feature Film,7.9,tt0024844,http://www.imdb.com/title/tt0024844/
+500,Black Narcissus,1947,"Michael Powell, Emeric Pressburger",drama,14657,100,26/05/1947,Feature Film,8,tt0039192,http://www.imdb.com/title/tt0039192/
+501,Silver Linings Playbook,2012,David O. Russell,"comedy, drama, romance",478968,122,8/9/2012,Feature Film,7.8,tt1045658,http://www.imdb.com/title/tt1045658/
+502,Rocco and His Brothers,1960,Luchino Visconti,"crime, drama, sport",10284,177,6/9/1960,Feature Film,8.3,tt0054248,http://www.imdb.com/title/tt0054248/
+503,To Have and Have Not,1944,Howard Hawks,"adventure, comedy, romance, thriller, war",21632,100,11/10/1944,Feature Film,8,tt0037382,http://www.imdb.com/title/tt0037382/
+504,Shrek,2001,"Andrew Adamson, Vicky Jenson","animation, adventure, comedy, family, fantasy",417972,90,22/04/2001,Feature Film,7.9,tt0126029,http://www.imdb.com/title/tt0126029/
+505,Papillon,1973,Franklin J. Schaffner,"biography, crime, drama",87970,151,16/12/1973,Feature Film,8.1,tt0070511,http://www.imdb.com/title/tt0070511/
+506,Hero,2002,Yimou Zhang,"action, adventure, history",141347,99,24/10/2002,Feature Film,7.9,tt0299977,http://www.imdb.com/title/tt0299977/
+507,Deliverance,1972,John Boorman,"adventure, drama, thriller",72514,110,30/07/1972,Feature Film,7.8,tt0068473,http://www.imdb.com/title/tt0068473/
+508,"Black Cat, White Cat",1998,Emir Kusturica,"comedy, crime, music, romance",37617,127,1/6/1998,Feature Film,8.1,tt0118843,http://www.imdb.com/title/tt0118843/
+509,In a Lonely Place,1950,Nicholas Ray,"drama, film_noir, mystery, romance, thriller",15059,94,17/05/1950,Feature Film,8,tt0042593,http://www.imdb.com/title/tt0042593/
+510,Planet of the Apes,1968,Franklin J. Schaffner,"adventure, sci_fi",128013,112,8/2/1968,Feature Film,8,tt0063442,http://www.imdb.com/title/tt0063442/
+511,Late Spring,1949,Yasujir?? Ozu,drama,7922,108,13/09/1949,Feature Film,8.3,tt0041154,http://www.imdb.com/title/tt0041154/
+512,Contempt,1963,Jean-Luc Godard,drama,17970,103,29/10/1963,Feature Film,7.8,tt0057345,http://www.imdb.com/title/tt0057345/
+513,No Man's Land,2001,Danis Tanovic,"drama, war",35916,98,12/5/2001,Feature Film,8,tt0283509,http://www.imdb.com/title/tt0283509/
+514,M.A.S.H.,1970,Robert Altman,"comedy, war, drama",52014,116,25/01/1970,Feature Film,7.7,tt0066026,http://www.imdb.com/title/tt0066026/
+515,A Bronx Tale,1993,Robert De Niro,"crime, drama",91027,121,9/9/1993,Feature Film,7.8,tt0106489,http://www.imdb.com/title/tt0106489/
+516,The Piano,1993,Jane Campion,"drama, music, romance",59879,121,15/05/1993,Feature Film,7.6,tt0107822,http://www.imdb.com/title/tt0107822/
+517,Juno,2007,Jason Reitman,"comedy, drama, romance",380651,96,1/9/2007,Feature Film,7.6,tt0467406,http://www.imdb.com/title/tt0467406/
+518,Delicatessen,1991,"Marc Caro, Jean-Pierre Jeunet","comedy, crime",62043,99,17/04/1991,Feature Film,7.7,tt0101700,http://www.imdb.com/title/tt0101700/
+519,Run Lola Run,1998,Tom Tykwer,"crime, thriller",153080,81,20/08/1998,Feature Film,7.8,tt0130827,http://www.imdb.com/title/tt0130827/
+520,Doctor Zhivago,1965,David Lean,"drama, romance, war",52133,197,22/12/1965,Feature Film,8,tt0059113,http://www.imdb.com/title/tt0059113/
+521,Gone Girl,2014,David Fincher,"drama, mystery, thriller",445544,149,26/09/2014,Feature Film,8.2,tt2267998,http://www.imdb.com/title/tt2267998/
+522,Kramer vs. Kramer,1979,Robert Benton,drama,88834,105,19/12/1979,Feature Film,7.8,tt0079417,http://www.imdb.com/title/tt0079417/
+523,District 9,2009,Neill Blomkamp,"action, sci_fi, thriller",492029,112,13/08/2009,Feature Film,8,tt1136608,http://www.imdb.com/title/tt1136608/
+524,Malcolm X,1992,Spike Lee,"biography, drama",59151,202,18/11/1992,Feature Film,7.7,tt0104797,http://www.imdb.com/title/tt0104797/
+525,Star Trek II: The Wrath of Khan,1982,Nicholas Meyer,"action, adventure, drama, sci_fi, thriller",84885,113,4/6/1982,Feature Film,7.7,tt0084726,http://www.imdb.com/title/tt0084726/
+526,Life of Pi,2012,Ang Lee,"adventure, drama, fantasy",386924,127,28/09/2012,Feature Film,8,tt0454876,http://www.imdb.com/title/tt0454876/
+527,Snow White and the Seven Dwarfs,1937,"William Cottrell, David Hand","animation, family, fantasy, musical, romance",117846,83,21/12/1937,Feature Film,7.7,tt0029583,http://www.imdb.com/title/tt0029583/
+528,Vivre Sa Vie,1962,Jean-Luc Godard,drama,15381,80,20/09/1962,Feature Film,8.1,tt0056663,http://www.imdb.com/title/tt0056663/
+529,Cat on a Hot Tin Roof,1958,Richard Brooks,"drama, romance",31205,108,18/09/1958,Feature Film,8.1,tt0051459,http://www.imdb.com/title/tt0051459/
+530,The Sweet Hereafter,1997,Atom Egoyan,drama,25378,112,14/05/1997,Feature Film,7.7,tt0120255,http://www.imdb.com/title/tt0120255/
+531,Donnie Darko,2001,Richard Kelly,"drama, sci_fi",523558,113,19/01/2001,Feature Film,8.1,tt0246578,http://www.imdb.com/title/tt0246578/
+532,The Magnificent Seven,1960,John Sturges,"action, adventure, western",59008,128,23/10/1960,Feature Film,7.8,tt0054047,http://www.imdb.com/title/tt0054047/
+533,Rush,2013,Ron Howard,"action, biography, drama, sport",260207,123,2/9/2013,Feature Film,8.2,tt1979320,http://www.imdb.com/title/tt1979320/
+534,Paper Moon,1973,Peter Bogdanovich,"comedy, crime, drama",21343,102,9/5/1973,Feature Film,8.2,tt0070510,http://www.imdb.com/title/tt0070510/
+535,Dead Poets Society,1989,Peter Weir,drama,252570,128,2/6/1989,Feature Film,8,tt0097165,http://www.imdb.com/title/tt0097165/
+536,Nine Queens,2000,Fabian Bielinsky,"crime, drama, thriller",34421,114,31/08/2000,Feature Film,7.9,tt0247586,http://www.imdb.com/title/tt0247586/
+537,Traffic,2000,Steven Soderbergh,"crime, drama, thriller",162138,147,27/12/2000,Feature Film,7.7,tt0181865,http://www.imdb.com/title/tt0181865/
+538,Quiz Show,1994,Robert Redford,"drama, history",50713,133,23/09/1994,Feature Film,7.5,tt0110932,http://www.imdb.com/title/tt0110932/
+539,West Side Story,1961,"Jerome Robbins, Robert Wise","crime, drama, musical, romance, thriller",65640,152,18/10/1961,Feature Film,7.6,tt0055614,http://www.imdb.com/title/tt0055614/
+540,The Double Life of Veronique,1991,Krzysztof Kieslowski,"drama, fantasy, music, romance",24992,98,15/05/1991,Feature Film,7.9,tt0101765,http://www.imdb.com/title/tt0101765/
+541,Great Expectations,1946,David Lean,"drama, romance",16597,118,26/12/1946,Feature Film,8,tt0038574,http://www.imdb.com/title/tt0038574/
+542,Serenity,2005,Joss Whedon,"action, adventure, sci_fi, thriller",225834,119,22/08/2005,Feature Film,8,tt0379786,http://www.imdb.com/title/tt0379786/
+543,Harvey,1950,Henry Koster,"comedy, drama",42313,104,13/10/1950,Feature Film,8.1,tt0042546,http://www.imdb.com/title/tt0042546/
+544,Milk,2008,Gus Van Sant,"biography, drama, history",126279,128,28/10/2008,Feature Film,7.6,tt1013753,http://www.imdb.com/title/tt1013753/
+545,Trouble in Paradise,1932,Ernst Lubitsch,"comedy, crime, romance",9013,83,21/10/1932,Feature Film,8.2,tt0023622,http://www.imdb.com/title/tt0023622/
+546,Moneyball,2011,Bennett Miller,"biography, drama, sport",263463,133,9/9/2011,Feature Film,7.6,tt1210166,http://www.imdb.com/title/tt1210166/
+547,Say Anything...,1989,Cameron Crowe,"comedy, drama, romance",61616,100,14/04/1989,Feature Film,7.5,tt0098258,http://www.imdb.com/title/tt0098258/
+548,American Graffiti,1973,George Lucas,"comedy, drama, romance",59375,110,1/8/1973,Feature Film,7.5,tt0069704,http://www.imdb.com/title/tt0069704/
+549,X-Men: Days of Future Past,2014,Bryan Singer,"action, adventure, sci_fi, thriller",430181,132,10/5/2014,Feature Film,8.1,tt1877832,http://www.imdb.com/title/tt1877832/
+550,Braveheart,1995,Mel Gibson,"biography, drama, history, war",655927,178,18/05/1995,Feature Film,8.4,tt0112573,http://www.imdb.com/title/tt0112573/
+551,Blow-Up,1966,Michelangelo Antonioni,"drama, mystery, thriller",37641,111,18/12/1966,Feature Film,7.7,tt0060176,http://www.imdb.com/title/tt0060176/
+552,Harry Potter and the Prisoner of Azkaban,2004,Alfonso Cuar??n,"adventure, family, fantasy, mystery",337701,142,31/05/2004,Feature Film,7.8,tt0304141,http://www.imdb.com/title/tt0304141/
+553,Central Station,1998,Walter Salles,drama,27382,113,16/01/1998,Feature Film,8,tt0140888,http://www.imdb.com/title/tt0140888/
+554,The Blues Brothers,1980,John Landis,"action, comedy, crime, music",131245,133,16/06/1980,Feature Film,8,tt0080455,http://www.imdb.com/title/tt0080455/
+555,Pride & Prejudice,2005,Joe Wright,"drama, romance",174624,129,25/07/2005,Feature Film,7.8,tt0414387,http://www.imdb.com/title/tt0414387/
+556,Ferris Bueller's Day Off,1986,John Hughes,comedy,221213,103,11/6/1986,Feature Film,7.9,tt0091042,http://www.imdb.com/title/tt0091042/
+557,Greed,1924,Erich von Stroheim,"drama, thriller",6613,140,4/12/1924,Feature Film,7.9,tt0015881,http://www.imdb.com/title/tt0015881/
+558,The Perks of Being a Wallflower,2012,Stephen Chbosky,"drama, romance",309972,102,8/9/2012,Feature Film,8.1,tt1659337,http://www.imdb.com/title/tt1659337/
+559,The Last Laugh,1924,F.W. Murnau,drama,8276,77,23/12/1924,Feature Film,8.1,tt0015064,http://www.imdb.com/title/tt0015064/
+560,In Bruges,2008,Martin McDonagh,"comedy, crime, drama",282235,107,17/01/2008,Feature Film,8,tt0780536,http://www.imdb.com/title/tt0780536/
+561,The Warriors,1979,Walter Hill,"action, thriller",65329,92,1/2/1979,Feature Film,7.7,tt0080120,http://www.imdb.com/title/tt0080120/
+562,Nebraska,2013,Alexander Payne,"adventure, drama",81422,115,23/05/2013,Feature Film,7.8,tt1821549,http://www.imdb.com/title/tt1821549/
+563,The Hidden Fortress,1958,Akira Kurosawa,"adventure, drama",21865,139,28/12/1958,Feature Film,8.1,tt0051808,http://www.imdb.com/title/tt0051808/
+564,Kung Fu Hustle,2004,Stephen Chow,"action, comedy, crime, fantasy",91630,99,14/09/2004,Feature Film,7.8,tt0373074,http://www.imdb.com/title/tt0373074/
+565,Midnight in Paris,2011,Woody Allen,"comedy, romance",272726,94,11/5/2011,Feature Film,7.7,tt1605783,http://www.imdb.com/title/tt1605783/
+566,127 Hours,2010,Danny Boyle,"adventure, biography, drama, thriller",254580,94,4/9/2010,Feature Film,7.6,tt1542344,http://www.imdb.com/title/tt1542344/
+567,Breakfast at Tiffany's,1961,Blake Edwards,"comedy, drama, romance",110571,115,5/10/1961,Feature Film,7.8,tt0054698,http://www.imdb.com/title/tt0054698/
+568,Porco Rosso,1992,Hayao Miyazaki,"animation, adventure, fantasy, romance",41489,94,18/07/1992,Feature Film,7.8,tt0104652,http://www.imdb.com/title/tt0104652/
+569,Gran Torino,2008,Clint Eastwood,drama,504273,116,9/12/2008,Feature Film,8.2,tt1205489,http://www.imdb.com/title/tt1205489/
+570,Take Shelter,2011,Jeff Nichols,"drama, thriller",59567,121,24/01/2011,Feature Film,7.4,tt1675192,http://www.imdb.com/title/tt1675192/
+571,Red River,1948,"Howard Hawks, Arthur Rosson","action, adventure, romance, western",19636,133,26/08/1948,Feature Film,7.8,tt0040724,http://www.imdb.com/title/tt0040724/
+572,Midnight Express,1978,Alan Parker,"biography, crime, drama",49903,121,18/05/1978,Feature Film,7.7,tt0077928,http://www.imdb.com/title/tt0077928/
+573,Sanjuro,1962,Akira Kurosawa,"action, drama, thriller",18202,96,1/1/1962,Feature Film,8.2,tt0056443,http://www.imdb.com/title/tt0056443/
+574,United 93,2006,Paul Greengrass,"action, crime, drama, history, thriller",79199,111,28/04/2006,Feature Film,7.6,tt0475276,http://www.imdb.com/title/tt0475276/
+575,Good Bye Lenin!,2003,Wolfgang Becker,"comedy, drama, romance",106702,121,9/2/2003,Feature Film,7.8,tt0301357,http://www.imdb.com/title/tt0301357/
+576,High Fidelity,2000,Stephen Frears,"comedy, drama, music, romance",133763,113,17/03/2000,Feature Film,7.6,tt0146882,http://www.imdb.com/title/tt0146882/
+577,The Untouchables,1987,Brian De Palma,"crime, drama, thriller",202900,119,2/6/1987,Feature Film,8,tt0094226,http://www.imdb.com/title/tt0094226/
+578,When Harry Met Sally...,1989,Rob Reiner,"comedy, drama, romance",136955,96,12/7/1989,Feature Film,7.6,tt0098635,http://www.imdb.com/title/tt0098635/
+579,Stanley Kubrick's Lolita,1962,Stanley Kubrick,"drama, romance",61380,152,12/6/1962,Feature Film,7.7,tt0056193,http://www.imdb.com/title/tt0056193/
+580,Happiness,1998,Todd Solondz,"comedy, drama",52229,134,15/05/1998,Feature Film,7.8,tt0147612,http://www.imdb.com/title/tt0147612/
+581,Midnight Run,1988,Martin Brest,"action, comedy, crime, thriller",50064,126,11/7/1988,Feature Film,7.6,tt0095631,http://www.imdb.com/title/tt0095631/
+582,Kill Bill: Vol. 1,2003,Quentin Tarantino,action,649411,111,10/10/2003,Feature Film,8.1,tt0266697,http://www.imdb.com/title/tt0266697/
+583,The Fly,1986,David Cronenberg,"horror, romance, sci_fi",106823,96,15/08/1986,Feature Film,7.5,tt0091064,http://www.imdb.com/title/tt0091064/
+584,Eyes Without a Face,1960,Georges Franju,"drama, horror, thriller",14758,88,11/1/1960,Feature Film,7.8,tt0053459,http://www.imdb.com/title/tt0053459/
+585,How to Train Your Dragon 2,2014,Dean DeBlois,"animation, action, adventure, comedy, family, fantasy",185168,102,16/05/2014,Feature Film,7.9,tt1646971,http://www.imdb.com/title/tt1646971/
+586,Last Year at Marienbad,1961,Alain Resnais,drama,12801,94,25/06/1961,Feature Film,8,tt0054632,http://www.imdb.com/title/tt0054632/
+587,Lilya 4-ever,2002,Lukas Moodysson,"crime, drama",33356,109,23/08/2002,Feature Film,7.9,tt0300140,http://www.imdb.com/title/tt0300140/
+588,The Evil Dead,1981,Sam Raimi,horror,126272,85,15/10/1981,Feature Film,7.6,tt0083907,http://www.imdb.com/title/tt0083907/
+589,Rocky,1976,John G. Avildsen,"drama, sport",319413,119,21/11/1976,Feature Film,8.1,tt0075148,http://www.imdb.com/title/tt0075148/
+590,50/50,2011,Jonathan Levine,"comedy, drama",251259,100,12/9/2011,Feature Film,7.7,tt1306980,http://www.imdb.com/title/tt1306980/
+591,Children of Heaven,1997,Majid Majidi,"drama, family",22776,89,1997-02,Feature Film,8.5,tt0118849,http://www.imdb.com/title/tt0118849/
+592,Ip Man,2008,Wilson Yip,"action, biography, drama, sport",138896,106,12/12/2008,Feature Film,8.1,tt1220719,http://www.imdb.com/title/tt1220719/
+593,Ghost World,2001,Terry Zwigoff,"comedy, drama",90737,111,16/06/2001,Feature Film,7.5,tt0162346,http://www.imdb.com/title/tt0162346/
+594,Mystic River,2003,Clint Eastwood,"crime, drama, mystery, thriller",314588,138,23/05/2003,Feature Film,8,tt0327056,http://www.imdb.com/title/tt0327056/
+595,Hunger,2008,Steve McQueen,"biography, drama",45915,96,15/05/2008,Feature Film,7.6,tt0986233,http://www.imdb.com/title/tt0986233/
+596,Scarface,1932,"Howard Hawks, Richard Rosson","action, crime, drama, film_noir, thriller",18263,93,31/03/1932,Feature Film,7.8,tt0023427,http://www.imdb.com/title/tt0023427/
+597,The Umbrellas of Cherbourg,1964,Jacques Demy,"drama, musical, romance",13848,91,19/02/1964,Feature Film,7.8,tt0058450,http://www.imdb.com/title/tt0058450/
+598,Nightcrawler,2014,Dan Gilroy,"action, crime, thriller",221884,117,5/9/2014,Feature Film,7.9,tt2872718,http://www.imdb.com/title/tt2872718/
+599,Tangled,2010,"Nathan Greno, Byron Howard","animation, comedy, family, fantasy, musical, romance",254278,100,24/11/2010,Feature Film,7.8,tt0398286,http://www.imdb.com/title/tt0398286/
+600,The Quiet Man,1952,John Ford,"comedy, drama, romance",24687,129,6/6/1952,Feature Film,7.9,tt0045061,http://www.imdb.com/title/tt0045061/
+601,The Wind Rises,2013,Hayao Miyazaki,"animation, biography, drama, romance, war",33972,126,20/07/2013,Feature Film,7.8,tt2013293,http://www.imdb.com/title/tt2013293/
+602,Mommy,2014,Xavier Dolan,drama,17795,139,22/05/2014,Feature Film,8.2,tt3612616,http://www.imdb.com/title/tt3612616/
+603,The Wolf of Wall Street,2013,Martin Scorsese,"biography, comedy, crime, drama",628934,180,17/12/2013,Feature Film,8.2,tt0993846,http://www.imdb.com/title/tt0993846/
+604,Shine,1996,Scott Hicks,"biography, drama, music, romance",40644,105,21/01/1996,Feature Film,7.7,tt0117631,http://www.imdb.com/title/tt0117631/
+605,After Hours,1985,Martin Scorsese,"comedy, crime, drama, thriller",35637,97,13/09/1985,Feature Film,7.7,tt0088680,http://www.imdb.com/title/tt0088680/
+606,Werckmeister Harmonies,2000,"B??la Tarr, ?Ågnes Hranitzky","drama, mystery",7817,145,12/7/2000,Feature Film,8.3,tt0249241,http://www.imdb.com/title/tt0249241/
+607,Apollo 13,1995,Ron Howard,"adventure, drama, history",191929,140,22/06/1995,Feature Film,7.6,tt0112384,http://www.imdb.com/title/tt0112384/
+608,My Man Godfrey,1936,Gregory La Cava,"romance, comedy",14670,94,6/9/1936,Feature Film,8.1,tt0028010,http://www.imdb.com/title/tt0028010/
+609,Orph??e,1950,Jean Cocteau,"fantasy, drama, romance",6835,95,1/3/1950,Feature Film,8.1,tt0041719,http://www.imdb.com/title/tt0041719/
+610,Zero Dark Thirty,2012,Kathryn Bigelow,"drama, history, thriller",199240,157,19/12/2012,Feature Film,7.4,tt1790885,http://www.imdb.com/title/tt1790885/
+611,The Past,2013,Asghar Farhadi,"drama, mystery",29521,130,17/05/2013,Feature Film,7.9,tt2404461,http://www.imdb.com/title/tt2404461/
+612,Time of the Gypsies,1988,Emir Kusturica,"comedy, crime, drama, fantasy",16283,142,21/12/1988,Feature Film,8.3,tt0097223,http://www.imdb.com/title/tt0097223/
+613,Snatch.,2000,Guy Ritchie,"comedy, crime",537711,104,23/08/2000,Feature Film,8.3,tt0208092,http://www.imdb.com/title/tt0208092/
+614,Prisoners,2013,Denis Villeneuve,"crime, drama, mystery, thriller",314557,153,30/08/2013,Feature Film,8.1,tt1392214,http://www.imdb.com/title/tt1392214/
+615,Control,2007,Anton Corbijn,"biography, drama, music",48198,122,17/05/2007,Feature Film,7.8,tt0421082,http://www.imdb.com/title/tt0421082/
+616,The Girl with the Dragon Tattoo,2011,David Fincher,"crime, drama, mystery, thriller",301379,158,12/12/2011,Feature Film,7.9,tt1568346,http://www.imdb.com/title/tt1568346/
+617,Hugo,2011,Martin Scorsese,"adventure, drama, family, mystery",225902,126,10/10/2011,Feature Film,7.6,tt0970179,http://www.imdb.com/title/tt0970179/
+618,Dances with Wolves,1990,Kevin Costner,"adventure, drama, western",170441,181,19/10/1990,Feature Film,8,tt0099348,http://www.imdb.com/title/tt0099348/
+619,Three Colors: White,1994,Krzysztof Kieslowski,"comedy, drama, mystery, romance",39900,91,26/01/1994,Feature Film,7.7,tt0111507,http://www.imdb.com/title/tt0111507/
+620,Cell 211,2009,Daniel Monz??n,"action, drama, thriller",45659,113,4/9/2009,Feature Film,7.7,tt1242422,http://www.imdb.com/title/tt1242422/
+621,Ivan's Childhood,1962,Andrey Tarkovskiy,"drama, war",16041,95,6/4/1962,Feature Film,8.1,tt0056111,http://www.imdb.com/title/tt0056111/
+622,Willy Wonka & the Chocolate Factory,1971,Mel Stuart,"family, fantasy, musical",115920,100,30/06/1971,Feature Film,7.8,tt0067992,http://www.imdb.com/title/tt0067992/
+623,A Beautiful Mind,2001,Ron Howard,"biography, drama",527760,135,13/12/2001,Feature Film,8.2,tt0268978,http://www.imdb.com/title/tt0268978/
+624,Dogville,2003,Lars Von Trier,"crime, drama, thriller",99795,178,19/05/2003,Feature Film,8.1,tt0276919,http://www.imdb.com/title/tt0276919/
+625,Au hasard Balthazar,1966,Robert Bresson,drama,10365,95,23/05/1966,Feature Film,7.9,tt0060138,http://www.imdb.com/title/tt0060138/
+626,Don't Look Now,1973,Nicolas Roeg,"drama, horror, thriller",31153,110,16/10/1973,Feature Film,7.4,tt0069995,http://www.imdb.com/title/tt0069995/
+627,From Here to Eternity,1953,Fred Zinnemann,"drama, romance, war",31306,118,5/8/1953,Feature Film,7.8,tt0045793,http://www.imdb.com/title/tt0045793/
+628,Clerks,1994,Kevin Smith,comedy,170856,92,1994-01,Feature Film,7.9,tt0109445,http://www.imdb.com/title/tt0109445/
+629,The Last of the Mohicans,1992,Michael Mann,"action, adventure, drama, romance, war",103787,112,26/08/1992,Feature Film,7.8,tt0104691,http://www.imdb.com/title/tt0104691/
+630,The Great Beauty,2013,Paolo Sorrentino,drama,44950,141,21/05/2013,Feature Film,7.7,tt2358891,http://www.imdb.com/title/tt2358891/
+631,Short Cuts,1993,Robert Altman,"comedy, drama",33196,187,5/9/1993,Feature Film,7.7,tt0108122,http://www.imdb.com/title/tt0108122/
+632,A Fish Called Wanda,1988,Charles Crichton,"comedy, crime",102320,108,7/7/1988,Feature Film,7.6,tt0095159,http://www.imdb.com/title/tt0095159/
+633,Jean de Florette,1986,Claude Berri,drama,18496,120,27/08/1986,Feature Film,8.1,tt0091288,http://www.imdb.com/title/tt0091288/
+634,American Splendor,2003,"Shari Springer Berman, Robert Pulcini","biography, comedy, drama",40227,101,20/01/2003,Feature Film,7.5,tt0305206,http://www.imdb.com/title/tt0305206/
+635,The Big Heat,1953,Fritz Lang,"crime, film_noir, thriller",15281,90,14/10/1953,Feature Film,8,tt0045555,http://www.imdb.com/title/tt0045555/
+636,Easy Rider,1969,Dennis Hopper,drama,69411,95,8/5/1969,Feature Film,7.4,tt0064276,http://www.imdb.com/title/tt0064276/
+637,Animal House,1978,John Landis,comedy,84287,109,27/07/1978,Feature Film,7.6,tt0077975,http://www.imdb.com/title/tt0077975/
+638,The Texas Chain Saw Massacre,1974,Tobe Hooper,"horror, thriller",86549,83,1/10/1974,Feature Film,7.5,tt0072271,http://www.imdb.com/title/tt0072271/
+639,Ponyo,2008,Hayao Miyazaki,"animation, family, fantasy",75947,101,19/07/2008,Feature Film,7.7,tt0876563,http://www.imdb.com/title/tt0876563/
+640,East of Eden,1955,Elia Kazan,drama,27847,115,9/3/1955,Feature Film,8,tt0048028,http://www.imdb.com/title/tt0048028/
+641,Dancer in the Dark,2000,Lars Von Trier,"crime, drama, musical",73313,140,17/05/2000,Feature Film,8,tt0168629,http://www.imdb.com/title/tt0168629/
+642,Gone Baby Gone,2007,Ben Affleck,"crime, drama, mystery, thriller",176320,114,5/9/2007,Feature Film,7.7,tt0452623,http://www.imdb.com/title/tt0452623/
+643,The Ox-Bow Incident,1943,William A. Wellman,"crime, drama, western",14949,75,8/5/1943,Feature Film,8.1,tt0036244,http://www.imdb.com/title/tt0036244/
+644,The Vanishing,1988,George Sluizer,"mystery, thriller",22899,107,29/08/1988,Feature Film,7.8,tt0096163,http://www.imdb.com/title/tt0096163/
+645,The Wicker Man,1973,Robin Hardy,"horror, mystery",42917,88,1973-12,Feature Film,7.7,tt0070917,http://www.imdb.com/title/tt0070917/
+646,"Lock, Stock and Two Smoking Barrels",1998,Guy Ritchie,"comedy, crime",373994,107,28/08/1998,Feature Film,8.2,tt0120735,http://www.imdb.com/title/tt0120735/
+647,Arrietty,2010,Hiromasa Yonebayashi,"animation, adventure, family, fantasy",46030,94,17/07/2010,Feature Film,7.7,tt1568921,http://www.imdb.com/title/tt1568921/
+648,Mysterious Skin,2004,Gregg Araki,drama,53459,105,3/9/2004,Feature Film,7.7,tt0370986,http://www.imdb.com/title/tt0370986/
+649,The Long Goodbye,1973,Robert Altman,"crime, drama, thriller, mystery",16593,112,7/3/1973,Feature Film,7.7,tt0070334,http://www.imdb.com/title/tt0070334/
+650,Pinocchio,1940,"Norman Ferguson, T. Hee","animation, family, fantasy, musical",77978,88,7/2/1940,Feature Film,7.5,tt0032910,http://www.imdb.com/title/tt0032910/
+651,Fruitvale Station,2013,Ryan Coogler,"biography, drama, romance",43980,85,19/01/2013,Feature Film,7.5,tt2334649,http://www.imdb.com/title/tt2334649/
+652,Naked,1993,Mike Leigh,"comedy, drama",21299,126,6/8/1993,Feature Film,7.9,tt0107653,http://www.imdb.com/title/tt0107653/
+653,Edge of Tomorrow,2014,Doug Liman,"action, adventure, sci_fi",355035,113,28/05/2014,Feature Film,7.9,tt1631867,http://www.imdb.com/title/tt1631867/
+654,Dead Man Walking,1995,Tim Robbins,"crime, drama",69092,122,29/12/1995,Feature Film,7.6,tt0112818,http://www.imdb.com/title/tt0112818/
+655,Frost/Nixon,2008,Ron Howard,"drama, history",84750,122,15/10/2008,Feature Film,7.7,tt0870111,http://www.imdb.com/title/tt0870111/
+656,The Royal Tenenbaums,2001,Wes Anderson,"comedy, drama",191887,110,5/10/2001,Feature Film,7.6,tt0265666,http://www.imdb.com/title/tt0265666/
+657,Birdman: Or (The Unexpected Virtue of Ignorance),2014,Alejandro G. I?Ò?≠rritu,"comedy, drama",298119,119,27/08/2014,Feature Film,7.9,tt2562232,http://www.imdb.com/title/tt2562232/
+658,Kagemusha,1980,Akira Kurosawa,"drama, history, war",21808,180,23/04/1980,Feature Film,8,tt0080979,http://www.imdb.com/title/tt0080979/
+659,Looper,2012,Rian Johnson,"action, crime, sci_fi, thriller",387949,119,6/9/2012,Feature Film,7.5,tt1276104,http://www.imdb.com/title/tt1276104/
+660,Misery,1990,Rob Reiner,thriller,122325,107,30/11/1990,Feature Film,7.8,tt0100157,http://www.imdb.com/title/tt0100157/
+661,The Motorcycle Diaries,2004,Walter Salles,"adventure, biography, drama",78176,126,15/01/2004,Feature Film,7.8,tt0318462,http://www.imdb.com/title/tt0318462/
+662,The Devil's Backbone,2001,Guillermo del Toro,"drama, horror",43411,106,20/04/2001,Feature Film,7.5,tt0256009,http://www.imdb.com/title/tt0256009/
+663,Dangerous Liaisons,1988,Stephen Frears,"drama, romance",49821,119,16/12/1988,Feature Film,7.7,tt0094947,http://www.imdb.com/title/tt0094947/
+664,The White Ribbon,2009,Michael Haneke,"drama, mystery",48700,144,21/05/2009,Feature Film,7.8,tt1149362,http://www.imdb.com/title/tt1149362/
+665,The Raid,2011,Gareth Huw Evans,"action, thriller",134199,101,8/9/2011,Feature Film,7.6,tt1899353,http://www.imdb.com/title/tt1899353/
+666,The Ten Commandments,1956,Cecil B. de Mille,"adventure, biography, drama",44162,220,5/10/1956,Feature Film,7.9,tt0049833,http://www.imdb.com/title/tt0049833/
+667,Picnic at Hanging Rock,1975,Peter Weir,"drama, mystery",23218,115,8/8/1975,Feature Film,7.6,tt0073540,http://www.imdb.com/title/tt0073540/
+668,Mud,2012,Jeff Nichols,drama,120080,130,26/05/2012,Feature Film,7.5,tt1935179,http://www.imdb.com/title/tt1935179/
+669,Zodiac,2007,David Fincher,"crime, drama, mystery, thriller",263498,157,2/3/2007,Feature Film,7.7,tt0443706,http://www.imdb.com/title/tt0443706/
+670,The Circus,1928,Charlie Chaplin,"comedy, romance",15768,71,6/1/1928,Feature Film,8.1,tt0018773,http://www.imdb.com/title/tt0018773/
+671,Faust,1926,F.W. Murnau,"drama, fantasy, horror",9536,85,14/10/1926,Feature Film,8,tt0016847,http://www.imdb.com/title/tt0016847/
+672,Barfi!,2012,Anurag Basu,"adventure, comedy, drama, romance",45684,151,13/09/2012,Feature Film,8.2,tt2082197,http://www.imdb.com/title/tt2082197/
+673,The Longest Day,1962,"Ken Annakin, Andrew Marton","action, drama, history, war",40588,178,25/09/1962,Feature Film,7.8,tt0056197,http://www.imdb.com/title/tt0056197/
+674,Captain America: The Winter Soldier,2014,"Anthony Russo, Joe Russo","action, adventure, sci_fi",395826,136,13/03/2014,Feature Film,7.8,tt1843866,http://www.imdb.com/title/tt1843866/
+675,3:10 to Yuma,2007,James Mangold,"adventure, crime, drama, western",220905,122,21/08/2007,Feature Film,7.8,tt0381849,http://www.imdb.com/title/tt0381849/
+676,Leaving Las Vegas,1995,Mike Figgis,"drama, romance",87743,111,15/09/1995,Feature Film,7.6,tt0113627,http://www.imdb.com/title/tt0113627/
+677,Sideways,2004,Alexander Payne,"comedy, drama, romance",140071,126,13/09/2004,Feature Film,7.6,tt0375063,http://www.imdb.com/title/tt0375063/
+678,Inside Llewyn Davis,2013,"Ethan Coen, Joel Coen","drama, music",79496,104,19/05/2013,Feature Film,7.4,tt2042568,http://www.imdb.com/title/tt2042568/
+679,The Thin Red Line,1998,Terrence Malick,"drama, war",129716,170,23/12/1998,Feature Film,7.6,tt0120863,http://www.imdb.com/title/tt0120863/
+680,Boys Don't Cry,1999,Kimberly Peirce,"biography, drama, romance",72508,118,2/9/1999,Feature Film,7.6,tt0171804,http://www.imdb.com/title/tt0171804/
+681,The World of Apu,1959,Satyajit Ray,drama,6206,105,1/5/1959,Feature Film,8.1,tt0052572,http://www.imdb.com/title/tt0052572/
+682,Kiss Me Deadly,1955,Robert Aldrich,"crime, film_noir, mystery, thriller",13018,106,18/05/1955,Feature Film,7.7,tt0048261,http://www.imdb.com/title/tt0048261/
+683,The Raid 2,2014,Gareth Evans,"action, crime, thriller",72337,150,21/01/2014,Feature Film,8,tt2265171,http://www.imdb.com/title/tt2265171/
+684,If....,1968,Lindsay Anderson,drama,15721,111,19/12/1968,Feature Film,7.7,tt0063850,http://www.imdb.com/title/tt0063850/
+685,Eastern Promises,2007,David Cronenberg,"crime, thriller",178849,100,8/9/2007,Feature Film,7.7,tt0765443,http://www.imdb.com/title/tt0765443/
+686,A Nightmare on Elm Street,1984,Wes Craven,horror,132502,91,1984-10,Feature Film,7.5,tt0087800,http://www.imdb.com/title/tt0087800/
+687,Dawn of the Planet of the Apes,2014,Matt Reeves,"action, drama, sci_fi, thriller",273019,130,26/06/2014,Feature Film,7.7,tt2103281,http://www.imdb.com/title/tt2103281/
+688,The Little Mermaid,1989,"Ron Clements, John Musker","animation, family, fantasy, musical, romance",148463,83,15/11/1989,Feature Film,7.6,tt0097757,http://www.imdb.com/title/tt0097757/
+689,Zelig,1983,Woody Allen,comedy,28968,79,15/07/1983,Feature Film,7.8,tt0086637,http://www.imdb.com/title/tt0086637/
+690,Atonement,2007,Joe Wright,"drama, mystery, romance, war",177396,123,28/08/2007,Feature Film,7.8,tt0783233,http://www.imdb.com/title/tt0783233/
+691,Wreck-It Ralph,2012,Rich Moore,"animation, adventure, comedy, family",237358,101,1/11/2012,Feature Film,7.8,tt1772341,http://www.imdb.com/title/tt1772341/
+692,Headhunters,2011,Morten Tyldum,"crime, thriller",72078,100,4/8/2011,Feature Film,7.6,tt1614989,http://www.imdb.com/title/tt1614989/
+693,The Purple Rose of Cairo,1985,Woody Allen,"comedy, fantasy, romance",32868,82,1/3/1985,Feature Film,7.8,tt0089853,http://www.imdb.com/title/tt0089853/
+694,Winter Sleep,2014,Nuri Bilge Ceylan,drama,19578,196,16/05/2014,Feature Film,8.3,tt2758880,http://www.imdb.com/title/tt2758880/
+695,Straw Dogs,1971,Sam Peckinpah,"crime, drama, thriller",42577,113,3/11/1971,Feature Film,7.5,tt0067800,http://www.imdb.com/title/tt0067800/
+696,All That Jazz,1979,Bob Fosse,"drama, music, musical",17722,123,20/12/1979,Feature Film,7.8,tt0078754,http://www.imdb.com/title/tt0078754/
+697,Love and Death,1975,Woody Allen,"comedy, war",25059,85,10/6/1975,Feature Film,7.8,tt0073312,http://www.imdb.com/title/tt0073312/
+698,Tootsie,1982,Sydney Pollack,"comedy, romance",72194,116,1/12/1982,Feature Film,7.4,tt0084805,http://www.imdb.com/title/tt0084805/
+699,M. Hulot's Holiday,1953,Jacques Tati,comedy,11441,114,25/02/1953,Feature Film,7.6,tt0046487,http://www.imdb.com/title/tt0046487/
+700,Superman,1978,Richard Donner,"action, drama, sci_fi",115059,143,10/12/1978,Feature Film,7.3,tt0078346,http://www.imdb.com/title/tt0078346/
+701,From Russia with Love,1963,Terence Young,"action, adventure, thriller",79208,115,10/10/1963,Feature Film,7.5,tt0057076,http://www.imdb.com/title/tt0057076/
+702,Capote,2005,Bennett Miller,"biography, crime, drama",91623,114,2/9/2005,Feature Film,7.4,tt0379725,http://www.imdb.com/title/tt0379725/
+703,Kiss Kiss Bang Bang,2005,Shane Black,"comedy, crime, mystery",161903,103,14/05/2005,Feature Film,7.7,tt0373469,http://www.imdb.com/title/tt0373469/
+704,The Color Purple,1985,Steven Spielberg,drama,56367,154,16/12/1985,Feature Film,7.8,tt0088939,http://www.imdb.com/title/tt0088939/
+705,Johnny Guitar,1954,Nicholas Ray,"drama, western",10328,110,26/05/1954,Feature Film,7.7,tt0047136,http://www.imdb.com/title/tt0047136/
+706,Dersu Uzala,1975,Akira Kurosava,"adventure, biography, drama",16482,144,1975-07,Feature Film,8.3,tt0071411,http://www.imdb.com/title/tt0071411/
+707,Philomena,2013,Stephen Frears,"biography, drama",66540,98,31/08/2013,Feature Film,7.6,tt2431286,http://www.imdb.com/title/tt2431286/
+708,The Twilight Samurai,2002,Y??ji Yamada,"drama, romance",17133,129,2/11/2002,Feature Film,8.2,tt0351817,http://www.imdb.com/title/tt0351817/
+709,The Bourne Identity,2002,Doug Liman,"action, mystery, thriller",363075,119,6/6/2002,Feature Film,7.9,tt0258463,http://www.imdb.com/title/tt0258463/
+710,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Gore Verbinski,"action, adventure, fantasy",721095,143,28/06/2003,Feature Film,8.1,tt0325980,http://www.imdb.com/title/tt0325980/
+711,Superbad,2007,Greg Mottola,comedy,391383,113,17/08/2007,Feature Film,7.6,tt0829482,http://www.imdb.com/title/tt0829482/
+712,500 Days of Summer,2009,Marc Webb,"comedy, drama, romance",340522,95,17/01/2009,Feature Film,7.8,tt1022603,http://www.imdb.com/title/tt1022603/
+713,Departures,2008,Y??jir?? Takita,"drama, music",35108,130,23/08/2008,Feature Film,8.1,tt1069238,http://www.imdb.com/title/tt1069238/
+714,Bullitt,1968,Peter Yates,"action, crime, mystery, thriller",42811,114,17/10/1968,Feature Film,7.5,tt0062765,http://www.imdb.com/title/tt0062765/
+715,House of Flying Daggers,2004,Yimou Zhang,"action, adventure, drama, romance",86525,119,19/05/2004,Feature Film,7.6,tt0385004,http://www.imdb.com/title/tt0385004/
+716,Shane,1953,George Stevens,"drama, romance, western",26246,118,23/04/1953,Feature Film,7.7,tt0046303,http://www.imdb.com/title/tt0046303/
+717,The Girl with the Dragon Tattoo,2009,Niels Arden Oplev,"crime, drama, mystery, thriller",162539,152,27/02/2009,Feature Film,7.8,tt1132620,http://www.imdb.com/title/tt1132620/
+718,Ninotchka,1939,Ernst Lubitsch,"comedy, romance",13314,110,6/10/1939,Feature Film,8,tt0031725,http://www.imdb.com/title/tt0031725/
+719,The Imitation Game,2014,Morten Tyldum,"biography, drama, thriller, war",326578,114,29/08/2014,Feature Film,8.1,tt2084970,http://www.imdb.com/title/tt2084970/
+720,McCabe & Mrs. Miller,1971,Robert Altman,"drama, western",14748,120,24/06/1971,Feature Film,7.7,tt0067411,http://www.imdb.com/title/tt0067411/
+721,Walk the Line,2005,James Mangold,"biography, drama, music, romance",177433,136,4/9/2005,Feature Film,7.9,tt0358273,http://www.imdb.com/title/tt0358273/
+722,Haider,2014,Vishal Bhardwaj,"crime, drama, romance, thriller",31021,160,2/10/2014,Feature Film,8.4,tt3390572,http://www.imdb.com/title/tt3390572/
+723,I Saw the Devil,2010,Kim Jee-woon,"crime, drama, horror, thriller",62342,141,12/8/2010,Feature Film,7.8,tt1588170,http://www.imdb.com/title/tt1588170/
+724,Waking Life,2001,Richard Linklater,"animation, drama, fantasy",44860,99,23/01/2001,Feature Film,7.8,tt0243017,http://www.imdb.com/title/tt0243017/
+725,Stranger Than Paradise,1984,Jim Jarmusch,"comedy, drama",23020,89,1984-05,Feature Film,7.6,tt0088184,http://www.imdb.com/title/tt0088184/
+726,"Good Night, and Good Luck.",2005,George Clooney,drama,80757,93,1/9/2005,Feature Film,7.5,tt0433383,http://www.imdb.com/title/tt0433383/
+727,The Crowd,1928,King Vidor,"drama, romance",5236,98,18/02/1928,Feature Film,7.9,tt0018806,http://www.imdb.com/title/tt0018806/
+728,Carlito's Way,1993,Brian De Palma,"crime, drama",152348,144,12/11/1993,Feature Film,7.9,tt0106519,http://www.imdb.com/title/tt0106519/
+729,An American Werewolf in London,1981,John Landis,"comedy, horror",57597,97,21/08/1981,Feature Film,7.6,tt0082010,http://www.imdb.com/title/tt0082010/
+730,Hana-bi,1997,Takeshi Kitano,"crime, drama, romance, thriller",19851,103,3/9/1997,Feature Film,7.9,tt0119250,http://www.imdb.com/title/tt0119250/
+731,Wallace & Gromit: The Curse of the Were-Rabbit,2005,"Steve Box, Nick Park","animation, comedy, family, mystery",89944,85,4/9/2005,Feature Film,7.5,tt0312004,http://www.imdb.com/title/tt0312004/
+732,The Hunger Games: Catching Fire,2013,Francis Lawrence,"adventure, sci_fi, thriller",438135,146,11/11/2013,Feature Film,7.7,tt1951264,http://www.imdb.com/title/tt1951264/
+733,Best in Show,2000,Christopher Guest,comedy,43269,90,8/9/2000,Feature Film,7.5,tt0218839,http://www.imdb.com/title/tt0218839/
+734,Paprika,2006,Satoshi Kon,"animation, mystery, sci_fi, thriller",37825,90,2/9/2006,Feature Film,7.7,tt0851578,http://www.imdb.com/title/tt0851578/
+735,Chak De! India,2007,Shimit Amin,"drama, family, sport",36179,153,10/8/2007,Feature Film,8.4,tt0871510,http://www.imdb.com/title/tt0871510/
+736,"Steamboat Bill, Jr.",1928,Chas. F. Reisner,"action, comedy, drama, family, romance",8535,70,12/5/1928,Feature Film,8,tt0019421,http://www.imdb.com/title/tt0019421/
+737,What's Eating Gilbert Grape,1993,Lasse Hallstr??m,drama,156094,118,1/10/1993,Feature Film,7.8,tt0108550,http://www.imdb.com/title/tt0108550/
+738,Open Your Eyes,1997,Alejandro Amen?≠bar,"drama, mystery, romance, sci_fi, thriller",49294,117,19/12/1997,Feature Film,7.8,tt0125659,http://www.imdb.com/title/tt0125659/
+739,Empire of the Sun,1987,Steven Spielberg,"drama, history, war",82383,153,9/12/1987,Feature Film,7.8,tt0092965,http://www.imdb.com/title/tt0092965/
+740,The Town,2010,Ben Affleck,"crime, drama, thriller",259800,125,8/9/2010,Feature Film,7.6,tt0840361,http://www.imdb.com/title/tt0840361/
+741,The Asphalt Jungle,1950,John Huston,"crime, film_noir, drama",16404,112,23/05/1950,Feature Film,7.9,tt0042208,http://www.imdb.com/title/tt0042208/
+742,RoboCop,1987,Paul Verhoeven,"action, crime, sci_fi, thriller",163724,102,17/07/1987,Feature Film,7.5,tt0093870,http://www.imdb.com/title/tt0093870/
+743,V for Vendetta,2005,James McTeigue,"action, drama, thriller",703290,132,11/12/2005,Feature Film,8.2,tt0434409,http://www.imdb.com/title/tt0434409/
+744,[Rec],2007,"Jaume Balaguer??, Paco Plaza","horror, mystery, thriller",119612,78,29/08/2007,Feature Film,7.5,tt1038988,http://www.imdb.com/title/tt1038988/
+745,Fucking Amal,1998,Lukas Moodysson,"comedy, drama, romance",40477,89,23/10/1998,Feature Film,7.7,tt0150662,http://www.imdb.com/title/tt0150662/
+746,"Planes, Trains & Automobiles",1987,John Hughes,comedy,81471,93,25/11/1987,Feature Film,7.6,tt0093748,http://www.imdb.com/title/tt0093748/
+747,X-Men: First Class,2011,Matthew Vaughn,"action, adventure, sci_fi",457246,132,25/05/2011,Feature Film,7.8,tt1270798,http://www.imdb.com/title/tt1270798/
+748,Animal Kingdom,2010,David Mich??d,"crime, drama, thriller",42351,113,22/01/2010,Feature Film,7.3,tt1313092,http://www.imdb.com/title/tt1313092/
+749,Sabrina,1954,Billy Wilder,"comedy, drama, romance",40402,113,9/9/1954,Feature Film,7.8,tt0047437,http://www.imdb.com/title/tt0047437/
+750,What We Do in the Shadows,2014,"Jemaine Clement, Taika Waititi","comedy, horror",37914,86,19/01/2014,Feature Film,7.6,tt3416742,http://www.imdb.com/title/tt3416742/
+751,Election,1999,Alexander Payne,"comedy, drama",69338,103,23/04/1999,Feature Film,7.3,tt0126886,http://www.imdb.com/title/tt0126886/
+752,In America,2002,Jim Sheridan,drama,35380,105,12/9/2002,Feature Film,7.8,tt0298845,http://www.imdb.com/title/tt0298845/
+753,Hamlet,1996,Kenneth Branagh,drama,29020,242,25/12/1996,Feature Film,7.8,tt0116477,http://www.imdb.com/title/tt0116477/
+754,Forbidden Planet,1956,Fred McLeod Wilcox,"action, adventure, family, sci_fi",31343,98,15/03/1956,Feature Film,7.7,tt0049223,http://www.imdb.com/title/tt0049223/
+755,Coraline,2009,Henry Selick,"animation, fantasy",130099,100,5/2/2009,Feature Film,7.7,tt0327597,http://www.imdb.com/title/tt0327597/
+756,Witness,1985,Peter Weir,"crime, drama, romance, thriller",61356,112,8/2/1985,Feature Film,7.5,tt0090329,http://www.imdb.com/title/tt0090329/
+757,Women on the Verge of a Nervous Breakdown,1988,Pedro Almod??var,"comedy, drama",23127,90,14/03/1988,Feature Film,7.6,tt0095675,http://www.imdb.com/title/tt0095675/
+758,A Single Man,2009,Tom Ford,drama,77108,99,11/9/2009,Feature Film,7.6,tt1315981,http://www.imdb.com/title/tt1315981/
+759,Lincoln,2012,Steven Spielberg,"biography, drama, history, war",181071,150,8/10/2012,Feature Film,7.4,tt0443272,http://www.imdb.com/title/tt0443272/
+760,Office Space,1999,Mike Judge,comedy,185518,89,19/02/1999,Feature Film,7.8,tt0151804,http://www.imdb.com/title/tt0151804/
+761,The Hours,2002,Stephen Daldry,drama,95368,114,18/12/2002,Feature Film,7.6,tt0274558,http://www.imdb.com/title/tt0274558/
+762,The Virgin Spring,1960,Ingmar Bergman,drama,17221,89,8/2/1960,Feature Film,8.1,tt0053976,http://www.imdb.com/title/tt0053976/
+763,Donnie Brasco,1997,Mike Newell,"biography, crime, drama",209413,127,28/02/1997,Feature Film,7.8,tt0119008,http://www.imdb.com/title/tt0119008/
+764,The Skin I Live In,2011,Pedro Almod??var,thriller,91859,120,19/05/2011,Feature Film,7.6,tt1189073,http://www.imdb.com/title/tt1189073/
+765,Ida,2013,Pawel Pawlikowski,drama,27252,82,30/08/2013,Feature Film,7.4,tt2718492,http://www.imdb.com/title/tt2718492/
+766,October Sky,1999,Joe Johnston,"biography, drama, family",59324,108,19/02/1999,Feature Film,7.8,tt0132477,http://www.imdb.com/title/tt0132477/
+767,Ex Machina,2015,Alex Garland,"drama, sci_fi",146948,108,21/01/2015,Feature Film,7.7,tt0470752,http://www.imdb.com/title/tt0470752/
+768,The City of Lost Children,1995,"Marc Caro, Jean-Pierre Jeunet","fantasy, sci_fi",52654,112,17/05/1995,Feature Film,7.7,tt0112682,http://www.imdb.com/title/tt0112682/
+769,The Help,2011,Tate Taylor,drama,283664,146,9/8/2011,Feature Film,8.1,tt1454029,http://www.imdb.com/title/tt1454029/
+770,Star Trek Into Darkness,2013,J.J. Abrams,"action, adventure, sci_fi",358622,132,2/5/2013,Feature Film,7.8,tt1408101,http://www.imdb.com/title/tt1408101/
+771,Farewell My Concubine,1993,Kaige Chen,"drama, music, romance",15846,171,1/1/1993,Feature Film,8.1,tt0106332,http://www.imdb.com/title/tt0106332/
+772,South Park: Bigger Longer & Uncut,1999,Trey Parker,"animation, comedy, musical",150214,81,30/06/1999,Feature Film,7.8,tt0158983,http://www.imdb.com/title/tt0158983/
+773,Interstellar,2014,Christopher Nolan,"adventure, drama, sci_fi",696398,169,26/10/2014,Feature Film,8.7,tt0816692,http://www.imdb.com/title/tt0816692/
+774,Winter's Bone,2010,Debra Granik,drama,103960,100,21/01/2010,Feature Film,7.2,tt1399683,http://www.imdb.com/title/tt1399683/
+775,Minority Report,2002,Steven Spielberg,"action, mystery, sci_fi, thriller",366618,145,17/06/2002,Feature Film,7.7,tt0181689,http://www.imdb.com/title/tt0181689/
+776,Scott Pilgrim vs. the World,2010,Edgar Wright,"action, comedy, fantasy, romance",246566,112,27/07/2010,Feature Film,7.5,tt0446029,http://www.imdb.com/title/tt0446029/
+777,Up in the Air,2009,Jason Reitman,"drama, romance",254087,109,5/9/2009,Feature Film,7.5,tt1193138,http://www.imdb.com/title/tt1193138/
+778,Cach??,2005,Michael Haneke,"drama, mystery, thriller",49222,117,14/05/2005,Feature Film,7.3,tt0387898,http://www.imdb.com/title/tt0387898/
+779,Through a Glass Darkly,1961,Ingmar Bergman,drama,13668,89,16/10/1961,Feature Film,8.1,tt0055499,http://www.imdb.com/title/tt0055499/
+780,The Magnificent Ambersons,1942,Orson Welles,"drama, romance",15802,88,10/7/1942,Feature Film,7.9,tt0035015,http://www.imdb.com/title/tt0035015/
+781,Frozen,2013,"Chris Buck, Jennifer Lee","animation, adventure, comedy, family, fantasy, musical",361512,102,10/11/2013,Feature Film,7.6,tt2294629,http://www.imdb.com/title/tt2294629/
+782,"O Brother, Where Art Thou?",2000,Joel Coen,"comedy, crime, music",205840,106,13/05/2000,Feature Film,7.8,tt0190590,http://www.imdb.com/title/tt0190590/
+783,Big Fish,2003,Tim Burton,"adventure, drama, fantasy",329987,125,10/12/2003,Feature Film,8,tt0319061,http://www.imdb.com/title/tt0319061/
+784,Heathers,1988,Michael Lehmann,"comedy, crime, drama",53384,103,1988-10,Feature Film,7.3,tt0097493,http://www.imdb.com/title/tt0097493/
+785,Scent of a Woman,1992,Martin Brest,drama,179069,156,23/12/1992,Feature Film,8,tt0105323,http://www.imdb.com/title/tt0105323/
+786,Spider-Man 2,2004,Sam Raimi,"action, adventure, fantasy",359440,127,25/06/2004,Feature Film,7.3,tt0316654,http://www.imdb.com/title/tt0316654/
+787,Mon Oncle,1958,Jacques Tati,comedy,12366,117,10/5/1958,Feature Film,7.9,tt0050706,http://www.imdb.com/title/tt0050706/
+788,Big Hero 6,2014,"Don Hall, Chris Williams","animation, action, adventure, comedy, family, sci_fi",200207,102,23/10/2014,Feature Film,7.9,tt2245084,http://www.imdb.com/title/tt2245084/
+789,Ordinary People,1980,Robert Redford,drama,32493,124,19/09/1980,Feature Film,7.9,tt0081283,http://www.imdb.com/title/tt0081283/
+790,The Bourne Supremacy,2004,Paul Greengrass,"action, thriller",308886,108,15/07/2004,Feature Film,7.8,tt0372183,http://www.imdb.com/title/tt0372183/
+791,Raising Arizona,1987,Joel Coen,"comedy, crime, drama, romance",92255,94,6/3/1987,Feature Film,7.4,tt0093822,http://www.imdb.com/title/tt0093822/
+792,The Squid and the Whale,2005,Noah Baumbach,"comedy, drama",56913,81,2005-01,Feature Film,7.4,tt0367089,http://www.imdb.com/title/tt0367089/
+793,Carrie,1976,Brian De Palma,horror,115251,98,3/11/1976,Feature Film,7.4,tt0074285,http://www.imdb.com/title/tt0074285/
+794,Top Hat,1935,Mark Sandrich,"comedy, musical, romance",12406,101,30/08/1935,Feature Film,7.9,tt0027125,http://www.imdb.com/title/tt0027125/
+795,The Descendants,2011,Alexander Payne,"comedy, drama",193785,115,2/9/2011,Feature Film,7.4,tt1033575,http://www.imdb.com/title/tt1033575/
+796,Five Easy Pieces,1970,Bob Rafelson,drama,23548,98,11/9/1970,Feature Film,7.5,tt0065724,http://www.imdb.com/title/tt0065724/
+797,Key Largo,1948,John Huston,"crime, drama, film_noir, thriller",26420,100,16/07/1948,Feature Film,7.9,tt0040506,http://www.imdb.com/title/tt0040506/
+798,Forbidden Games,1952,Ren?? Cl??ment,"drama, war",7979,86,9/5/1952,Feature Film,7.9,tt0043686,http://www.imdb.com/title/tt0043686/
+799,Cinderella Man,2005,Ron Howard,"biography, drama, sport",139302,144,23/05/2005,Feature Film,8,tt0352248,http://www.imdb.com/title/tt0352248/
+800,Grindhouse,2007,"Robert Rodriguez, Eli Roth","action, horror, thriller",145626,191,6/4/2007,Feature Film,7.7,tt0462322,http://www.imdb.com/title/tt0462322/
+801,Awakenings,1990,Penny Marshall,"biography, drama",84042,121,12/12/1990,Feature Film,7.8,tt0099077,http://www.imdb.com/title/tt0099077/
+802,Avatar,2009,James Cameron,"action, adventure, fantasy, sci_fi",806664,162,10/12/2009,Feature Film,7.9,tt0499549,http://www.imdb.com/title/tt0499549/
+803,Heavenly Creatures,1994,Peter Jackson,"biography, crime, drama, romance, thriller",47201,99,2/9/1994,Feature Film,7.5,tt0110005,http://www.imdb.com/title/tt0110005/
+804,Intolerance: Love's Struggle Throughout the Ages,1916,D.W. Griffith,"drama, history",9825,163,5/8/1916,Feature Film,8,tt0006864,http://www.imdb.com/title/tt0006864/
+805,The Last King of Scotland,2006,Kevin Macdonald,"biography, drama, history",134479,121,1/9/2006,Feature Film,7.7,tt0455590,http://www.imdb.com/title/tt0455590/
+806,Nobody Knows,2004,Hirokazu Koreeda,drama,16053,141,13/05/2004,Feature Film,8.1,tt0408664,http://www.imdb.com/title/tt0408664/
+807,28 Days Later...,2002,Danny Boyle,horror,272159,113,1/11/2002,Feature Film,7.6,tt0289043,http://www.imdb.com/title/tt0289043/
+808,Veer-Zaara,2004,Yash Chopra,"drama, musical, romance",28509,192,12/11/2004,Feature Film,7.9,tt0420332,http://www.imdb.com/title/tt0420332/
+809,To Catch a Thief,1955,Alfred Hitchcock,"mystery, romance, thriller",41687,106,3/8/1955,Feature Film,7.5,tt0048728,http://www.imdb.com/title/tt0048728/
+810,Star Trek: First Contact,1996,Jonathan Frakes,"action, adventure, sci_fi, thriller",91888,111,18/11/1996,Feature Film,7.6,tt0117731,http://www.imdb.com/title/tt0117731/
+811,Terms of Endearment,1983,James L. Brooks,"comedy, drama",36785,132,20/11/1983,Feature Film,7.4,tt0086425,http://www.imdb.com/title/tt0086425/
+812,You Can Count on Me,2000,Kenneth Lonergan,drama,21061,111,21/01/2000,Feature Film,7.7,tt0203230,http://www.imdb.com/title/tt0203230/
+813,Bad Education,2004,Pedro Almod??var,"crime, drama, mystery, romance, thriller",42314,106,19/03/2004,Feature Film,7.5,tt0275491,http://www.imdb.com/title/tt0275491/
+814,Mississippi Burning,1988,Alan Parker,"crime, drama, mystery, thriller",60934,128,9/12/1988,Feature Film,7.8,tt0095647,http://www.imdb.com/title/tt0095647/
+815,Beasts of the Southern Wild,2012,Benh Zeitlin,"drama, fantasy",65762,93,20/01/2012,Feature Film,7.3,tt2125435,http://www.imdb.com/title/tt2125435/
+816,Half Nelson,2006,Ryan Fleck,drama,67056,106,23/01/2006,Feature Film,7.3,tt0468489,http://www.imdb.com/title/tt0468489/
+817,Pierrot le Fou,1965,Jean-Luc Godard,"crime, drama, romance",16973,110,29/08/1965,Feature Film,7.7,tt0059592,http://www.imdb.com/title/tt0059592/
+818,The Man Who Wasn't There,2001,Joel Coen,"crime, drama",80259,116,13/05/2001,Feature Film,7.6,tt0243133,http://www.imdb.com/title/tt0243133/
+819,The Innocents,1961,Jack Clayton,horror,17461,100,24/11/1961,Feature Film,7.9,tt0055018,http://www.imdb.com/title/tt0055018/
+820,A Man for All Seasons,1966,Fred Zinnemann,"biography, drama, history",22008,120,12/12/1966,Feature Film,7.9,tt0060665,http://www.imdb.com/title/tt0060665/
+821,Black Book,2006,Paul Verhoeven,"drama, thriller, war",56214,145,1/9/2006,Feature Film,7.8,tt0389557,http://www.imdb.com/title/tt0389557/
+822,Le Cercle Rouge,1970,Jean-Pierre Melville,"crime, drama, thriller",13547,140,20/10/1970,Feature Film,8.1,tt0065531,http://www.imdb.com/title/tt0065531/
+823,Marty,1955,Delbert Mann,"drama, romance",14260,90,11/4/1955,Feature Film,7.7,tt0048356,http://www.imdb.com/title/tt0048356/
+824,Thelma & Louise,1991,Ridley Scott,"adventure, crime, drama, thriller",92020,130,24/05/1991,Feature Film,7.4,tt0103074,http://www.imdb.com/title/tt0103074/
+825,Walkabout,1971,Nicolas Roeg,"adventure, drama",16089,100,1971-05,Feature Film,7.7,tt0067959,http://www.imdb.com/title/tt0067959/
+826,Brick,2005,Rian Johnson,"crime, drama, mystery, romance, thriller",79711,110,2005-01,Feature Film,7.4,tt0393109,http://www.imdb.com/title/tt0393109/
+827,Meet Me in St. Louis,1944,Vincente Minnelli,"comedy, drama, family, musical, romance",13896,113,22/11/1944,Feature Film,7.7,tt0037059,http://www.imdb.com/title/tt0037059/
+828,Monsieur Verdoux,1947,Charles Chaplin,"comedy, crime, drama",10595,124,11/4/1947,Feature Film,8,tt0039631,http://www.imdb.com/title/tt0039631/
+829,The Enigma of Kaspar Hauser,1974,Werner Herzog,"biography, drama, history",11695,110,1/11/1974,Feature Film,7.9,tt0071691,http://www.imdb.com/title/tt0071691/
+830,Tae Guk Gi: The Brotherhood of War,2004,Je-gyu Kang,"action, drama, war",30242,140,3/2/2004,Feature Film,8.2,tt0386064,http://www.imdb.com/title/tt0386064/
+831,Billy Elliot,2000,Stephen Daldry,"comedy, drama, music",91146,110,19/05/2000,Feature Film,7.7,tt0249462,http://www.imdb.com/title/tt0249462/
+832,Braindead,1992,Peter Jackson,"comedy, horror, romance",72406,104,30/07/1992,Feature Film,7.6,tt0103873,http://www.imdb.com/title/tt0103873/
+833,The Bridges of Madison County,1995,Clint Eastwood,"drama, romance",50521,135,2/6/1995,Feature Film,7.5,tt0112579,http://www.imdb.com/title/tt0112579/
+834,That Obscure Object of Desire,1977,Luis Bunuel,"comedy, drama, romance",13564,102,17/08/1977,Feature Film,8,tt0075824,http://www.imdb.com/title/tt0075824/
+835,Miracle on 34th Street,1947,George Seaton,"comedy, drama, family, fantasy",27520,96,2/5/1947,Feature Film,7.9,tt0039628,http://www.imdb.com/title/tt0039628/
+836,The Hunt for Red October,1990,John McTiernan,"action, adventure, thriller",133102,135,2/3/1990,Feature Film,7.6,tt0099810,http://www.imdb.com/title/tt0099810/
+837,Oliver Twist,1948,David Lean,"adventure, crime, drama",8129,116,28/06/1948,Feature Film,7.8,tt0040662,http://www.imdb.com/title/tt0040662/
+838,Big,1988,Penny Marshall,"comedy, drama, fantasy, romance",138836,104,3/6/1988,Feature Film,7.3,tt0094737,http://www.imdb.com/title/tt0094737/
+839,Frances Ha,2012,Noah Baumbach,"comedy, drama",35802,86,1/9/2012,Feature Film,7.4,tt2347569,http://www.imdb.com/title/tt2347569/
+840,I Am a Fugitive from a Chain Gang,1932,Mervyn LeRoy,"crime, drama, film_noir",8619,92,11/11/1932,Feature Film,8.1,tt0023042,http://www.imdb.com/title/tt0023042/
+841,Jackie Brown,1997,Quentin Tarantino,"crime, drama, thriller",216128,154,25/12/1997,Feature Film,7.5,tt0119396,http://www.imdb.com/title/tt0119396/
+842,25th Hour,2002,Spike Lee,"crime, drama",142391,135,16/12/2002,Feature Film,7.7,tt0307901,http://www.imdb.com/title/tt0307901/
+843,Road to Perdition,2002,Sam Mendes,"crime, drama, thriller",186284,117,12/7/2002,Feature Film,7.7,tt0257044,http://www.imdb.com/title/tt0257044/
+844,Zulu,1964,Cy Endfield,"drama, history, war",27310,138,22/01/1964,Feature Film,7.8,tt0058777,http://www.imdb.com/title/tt0058777/
+845,Zombieland,2009,Ruben Fleischer,"adventure, comedy, horror",347210,88,25/09/2009,Feature Film,7.7,tt1156398,http://www.imdb.com/title/tt1156398/
+846,The Verdict,1982,Sidney Lumet,drama,23948,129,8/12/1982,Feature Film,7.8,tt0084855,http://www.imdb.com/title/tt0084855/
+847,The Box of Pandora,1929,Georg Wilhelm Pabst,"crime, drama, romance",6907,109,30/01/1929,Feature Film,8,tt0018737,http://www.imdb.com/title/tt0018737/
+848,PK,2014,Rajkumar Hirani,"comedy, drama, romance, sci_fi",64065,153,18/12/2014,Feature Film,8.4,tt2338151,http://www.imdb.com/title/tt2338151/
+849,Leviathan,2014,Andrey Zvyagintsev,drama,22105,140,23/05/2014,Feature Film,7.7,tt2802154,http://www.imdb.com/title/tt2802154/
+850,The Meaning of Life,1983,"Terry Jones, Terry Gilliam","comedy, musical",76455,107,31/03/1983,Feature Film,7.6,tt0085959,http://www.imdb.com/title/tt0085959/
+851,Sympathy for Lady Vengeance,2005,Chan-wook Park,"crime, drama, thriller",48871,112,29/07/2005,Feature Film,7.7,tt0451094,http://www.imdb.com/title/tt0451094/
+852,Dead Man,1995,Jim Jarmusch,"drama, fantasy, western",66849,121,26/05/1995,Feature Film,7.7,tt0112817,http://www.imdb.com/title/tt0112817/
+853,In the Loop,2009,Armando Iannucci,comedy,41198,106,22/01/2009,Feature Film,7.5,tt1226774,http://www.imdb.com/title/tt1226774/
+854,High Plains Drifter,1973,Clint Eastwood,western,32803,105,19/04/1973,Feature Film,7.6,tt0068699,http://www.imdb.com/title/tt0068699/
+855,A Bittersweet Life,2005,Kim Jee-woon,"action, crime, drama",22533,120,1/4/2005,Feature Film,7.7,tt0456912,http://www.imdb.com/title/tt0456912/
+856,The Ice Storm,1997,Ang Lee,drama,44439,112,12/5/1997,Feature Film,7.5,tt0119349,http://www.imdb.com/title/tt0119349/
+857,A Simple Plan,1998,Sam Raimi,"crime, drama, thriller",47568,121,12/9/1998,Feature Film,7.5,tt0120324,http://www.imdb.com/title/tt0120324/
+858,Fiddler on the Roof,1971,Norman Jewison,"drama, family, musical, romance",27869,181,21/10/1971,Feature Film,8,tt0067093,http://www.imdb.com/title/tt0067093/
+859,The Counterfeiters,2007,Stefan Ruzowitzky,"crime, drama, war",34469,98,10/2/2007,Feature Film,7.6,tt0813547,http://www.imdb.com/title/tt0813547/
+860,End of Watch,2012,David Ayer,"crime, drama, thriller",164013,109,8/9/2012,Feature Film,7.7,tt1855199,http://www.imdb.com/title/tt1855199/
+861,Ray,2004,Taylor Hackford,"biography, drama, music",100379,152,12/9/2004,Feature Film,7.8,tt0350258,http://www.imdb.com/title/tt0350258/
+862,The Cameraman,1928,Edward Sedgwick,"comedy, romance, family, drama",6895,69,16/09/1928,Feature Film,8.3,tt0018742,http://www.imdb.com/title/tt0018742/
+863,The Visitor,2007,Tom McCarthy,drama,35520,104,7/9/2007,Feature Film,7.7,tt0857191,http://www.imdb.com/title/tt0857191/
+864,The Queen,2006,Stephen Frears,"biography, drama",78714,103,2/9/2006,Feature Film,7.4,tt0436697,http://www.imdb.com/title/tt0436697/
+865,The English Patient,1996,Anthony Minghella,"drama, romance, war",130631,162,1996-10,Feature Film,7.4,tt0116209,http://www.imdb.com/title/tt0116209/
+866,Sweeney Todd: The Demon Barber of Fleet Street,2007,Tim Burton,"drama, horror, musical, thriller",258606,116,3/12/2007,Feature Film,7.5,tt0408236,http://www.imdb.com/title/tt0408236/
+867,Three Kings,1999,David O. Russell,"action, adventure, comedy, drama, war",130158,114,27/09/1999,Feature Film,7.2,tt0120188,http://www.imdb.com/title/tt0120188/
+868,Pi,1998,Darren Aronofsky,"drama, thriller",133900,84,1998-01,Feature Film,7.5,tt0138704,http://www.imdb.com/title/tt0138704/
+869,A Room with a View,1985,James Ivory,"drama, romance",26995,117,13/12/1985,Feature Film,7.4,tt0091867,http://www.imdb.com/title/tt0091867/
+870,The Day of the Jackal,1973,Fred Zinnemann,"crime, drama, thriller",27340,143,16/05/1973,Feature Film,7.8,tt0069947,http://www.imdb.com/title/tt0069947/
+871,Blue Valentine,2010,Derek Cianfrance,"drama, romance",129535,112,24/01/2010,Feature Film,7.4,tt1120985,http://www.imdb.com/title/tt1120985/
+872,Titanic,1997,James Cameron,"drama, romance",708314,194,1/11/1997,Feature Film,7.7,tt0120338,http://www.imdb.com/title/tt0120338/
+873,The Guns of Navarone,1961,J. Lee Thompson,"action, adventure, drama, war",33482,158,27/04/1961,Feature Film,7.6,tt0054953,http://www.imdb.com/title/tt0054953/
+874,Cast Away,2000,Robert Zemeckis,"adventure, drama",352378,143,7/12/2000,Feature Film,7.7,tt0162222,http://www.imdb.com/title/tt0162222/
+875,Gattaca,1997,Andrew Niccol,"drama, sci_fi, thriller",199894,106,7/9/1997,Feature Film,7.8,tt0119177,http://www.imdb.com/title/tt0119177/
+876,Tell No One,2006,Guillaume Canet,"crime, drama, mystery, thriller",34181,131,1/11/2006,Feature Film,7.6,tt0362225,http://www.imdb.com/title/tt0362225/
+877,The Crow,1994,Alex Proyas,"action, fantasy",126665,102,11/5/1994,Feature Film,7.6,tt0109506,http://www.imdb.com/title/tt0109506/
+878,Fish Tank,2009,Andrea Arnold,drama,43580,123,14/05/2009,Feature Film,7.3,tt1232776,http://www.imdb.com/title/tt1232776/
+879,Angst essen Seele auf,1974,Rainer Werner Fassbinder,drama,11125,94,5/3/1974,Feature Film,8.1,tt0071141,http://www.imdb.com/title/tt0071141/
+880,The Naked Gun: From the Files of Police Squad!,1988,David Zucker,"comedy, crime",103447,85,2/12/1988,Feature Film,7.6,tt0095705,http://www.imdb.com/title/tt0095705/
+881,Escape from Alcatraz,1979,Donald Siegel,"action, biography, crime, drama, thriller",79708,112,22/06/1979,Feature Film,7.6,tt0079116,http://www.imdb.com/title/tt0079116/
+882,The Killers,1946,Robert Siodmak,"crime, drama, film_noir, mystery",12215,97,28/08/1946,Feature Film,7.9,tt0038669,http://www.imdb.com/title/tt0038669/
+883,A Very Long Engagement,2004,Jean-Pierre Jeunet,"drama, mystery, romance, war",59790,133,27/10/2004,Feature Film,7.7,tt0344510,http://www.imdb.com/title/tt0344510/
+884,The Shop on Main Street,1965,"J?≠n Kad?≠r, Elmar Klos",drama,5958,128,8/10/1965,Feature Film,8,tt0059527,http://www.imdb.com/title/tt0059527/
+885,Napoleon,1927,Abel Gance,"biography, drama, history, war",5058,240,7/4/1927,Feature Film,7.4,tt0018192,http://www.imdb.com/title/tt0018192/
+886,Fearless,2006,Ronny Yu,"action, biography, drama, sport",58531,104,26/01/2006,Feature Film,7.7,tt0446059,http://www.imdb.com/title/tt0446059/
+887,The Wind That Shakes the Barley,2006,Ken Loach,"drama, history, war",34468,127,18/05/2006,Feature Film,7.5,tt0460989,http://www.imdb.com/title/tt0460989/
+888,As Good as It Gets,1997,James L. Brooks,"comedy, drama, romance",212278,139,19/12/1997,Feature Film,7.8,tt0119822,http://www.imdb.com/title/tt0119822/
+889,Harry Potter and the Deathly Hallows: Part 1,2010,David Yates,"adventure, family, fantasy, mystery",289479,146,11/11/2010,Feature Film,7.7,tt0926084,http://www.imdb.com/title/tt0926084/
+890,Field of Dreams,1989,Phil Alden Robinson,"drama, family, fantasy, sport",80560,107,21/04/1989,Feature Film,7.6,tt0097351,http://www.imdb.com/title/tt0097351/
+891,The Aviator,2004,Martin Scorsese,"biography, drama",237654,170,14/12/2004,Feature Film,7.5,tt0338751,http://www.imdb.com/title/tt0338751/
+892,A History of Violence,2005,David Cronenberg,"crime, drama, thriller",175006,96,16/05/2005,Feature Film,7.5,tt0399146,http://www.imdb.com/title/tt0399146/
+893,Autumn Sonata,1978,Ingmar Bergman,"drama, music",13589,99,8/10/1978,Feature Film,8.3,tt0077711,http://www.imdb.com/title/tt0077711/
+894,The Tenant,1976,Roman Polanski,thriller,25025,126,26/05/1976,Feature Film,7.8,tt0074811,http://www.imdb.com/title/tt0074811/
+895,The Earrings of Madame De...,1953,Max Oph?¨ls,"drama, romance",5590,105,16/09/1953,Feature Film,8,tt0046022,http://www.imdb.com/title/tt0046022/
+896,The Man from Nowhere,2010,Jeong-beom Lee,"action, crime, thriller",37509,119,5/8/2010,Feature Film,7.9,tt1527788,http://www.imdb.com/title/tt1527788/
+897,Collateral,2004,Michael Mann,"crime, drama, thriller",273954,120,5/8/2004,Feature Film,7.6,tt0369339,http://www.imdb.com/title/tt0369339/
+898,Manhunter,1986,Michael Mann,"crime, mystery, thriller",46257,119,15/08/1986,Feature Film,7.2,tt0091474,http://www.imdb.com/title/tt0091474/
+899,"Two Days, One Night",2014,"Jean-Pierre Dardenne, Luc Dardenne",drama,23754,95,20/05/2014,Feature Film,7.4,tt2737050,http://www.imdb.com/title/tt2737050/
+900,Harry Potter and the Goblet of Fire,2005,Mike Newell,"adventure, family, fantasy, mystery",343230,157,6/11/2005,Feature Film,7.6,tt0330373,http://www.imdb.com/title/tt0330373/
+901,First Blood,1982,Ted Kotcheff,"action, thriller",157042,93,22/10/1982,Feature Film,7.7,tt0083944,http://www.imdb.com/title/tt0083944/
+902,Chicago,2002,Rob Marshall,"comedy, crime, musical",159752,113,10/12/2002,Feature Film,7.2,tt0299658,http://www.imdb.com/title/tt0299658/
+903,Out of Sight,1998,Steven Soderbergh,"comedy, crime, romance",68231,123,26/06/1998,Feature Film,7.1,tt0120780,http://www.imdb.com/title/tt0120780/
+904,Hoosiers,1986,David Anspaugh,"drama, sport",32047,114,14/11/1986,Feature Film,7.6,tt0091217,http://www.imdb.com/title/tt0091217/
+905,The Girl Who Leapt Through Time,2006,Mamoru Hosoda,"animation, comedy, drama, mystery, romance, sci_fi",30158,98,15/07/2006,Feature Film,7.9,tt0808506,http://www.imdb.com/title/tt0808506/
+906,The Proposition,2005,John Hillcoat,"crime, drama, western",41108,104,12/9/2005,Feature Film,7.5,tt0421238,http://www.imdb.com/title/tt0421238/
+907,Mulan,1998,"Tony Bancroft, Barry Cook","animation, adventure, family, musical, war",147671,88,5/6/1998,Feature Film,7.5,tt0120762,http://www.imdb.com/title/tt0120762/
+908,Mr. Deeds Goes to Town,1936,Frank Capra,"comedy, drama",14131,115,12/4/1936,Feature Film,8,tt0027996,http://www.imdb.com/title/tt0027996/
+909,Sin City,2005,"Frank Miller, Robert Rodriguez","crime, thriller",598566,124,28/03/2005,Feature Film,8.1,tt0401792,http://www.imdb.com/title/tt0401792/
+910,The Phantom Carriage,1921,Victor Sj??str??m,"drama, fantasy, horror",5654,93,1/1/1921,Feature Film,8.1,tt0012364,http://www.imdb.com/title/tt0012364/
+911,Thank You for Smoking,2005,Jason Reitman,"comedy, drama",184574,92,9/9/2005,Feature Film,7.6,tt0427944,http://www.imdb.com/title/tt0427944/
+912,X2,2003,Bryan Singer,"action, adventure, sci_fi, thriller",362484,134,24/04/2003,Feature Film,7.5,tt0290334,http://www.imdb.com/title/tt0290334/
+913,The Silence,1963,Ingmar Bergman,drama,11163,96,23/09/1963,Feature Film,8.1,tt0057611,http://www.imdb.com/title/tt0057611/
+914,The Ladykillers,1955,Alexander Mackendrick,"comedy, crime",19474,91,8/12/1955,Feature Film,7.8,tt0048281,http://www.imdb.com/title/tt0048281/
+915,Tombstone,1993,George P. Cosmatos,"action, drama, history, western",87659,130,25/12/1993,Feature Film,7.8,tt0108358,http://www.imdb.com/title/tt0108358/
+916,Videodrome,1983,David Cronenberg,"horror, sci_fi",54197,87,4/2/1983,Feature Film,7.3,tt0086541,http://www.imdb.com/title/tt0086541/
+917,Grosse Pointe Blank,1997,George Armitage,"comedy, crime, romance, thriller",69588,107,11/4/1997,Feature Film,7.4,tt0119229,http://www.imdb.com/title/tt0119229/
+918,The Last Temptation of Christ,1988,Martin Scorsese,drama,36987,164,12/8/1988,Feature Film,7.6,tt0095497,http://www.imdb.com/title/tt0095497/
+919,Mildred Pierce,1945,Michael Curtiz,"crime, drama, film_noir, mystery, romance",14719,111,24/09/1945,Feature Film,8,tt0037913,http://www.imdb.com/title/tt0037913/
+920,Ghost Dog,1999,Jim Jarmusch,"action, crime, drama, thriller",66226,116,18/05/1999,Feature Film,7.6,tt0165798,http://www.imdb.com/title/tt0165798/
+921,The Class,2008,Laurent Cantet,drama,27619,128,24/05/2008,Feature Film,7.5,tt1068646,http://www.imdb.com/title/tt1068646/
+922,The Knife in the Water,1962,Roman Polanski,drama,13768,94,9/3/1962,Feature Film,7.6,tt0056291,http://www.imdb.com/title/tt0056291/
+923,"Sex, Lies, and Videotape",1989,Steven Soderbergh,drama,34996,100,20/01/1989,Feature Film,7.2,tt0098724,http://www.imdb.com/title/tt0098724/
+924,The Assassination of Jesse James by the Coward Robert Ford,2007,Andrew Dominik,"biography, crime, drama, history, western",127630,160,2/9/2007,Feature Film,7.6,tt0443680,http://www.imdb.com/title/tt0443680/
+925,Inside Man,2006,Spike Lee,"crime, drama, mystery, thriller",252918,129,16/03/2006,Feature Film,7.6,tt0454848,http://www.imdb.com/title/tt0454848/
+926,Bloody Sunday,2002,Paul Greengrass,"drama, history, war",18609,107,16/01/2002,Feature Film,7.7,tt0280491,http://www.imdb.com/title/tt0280491/
+927,Lethal Weapon,1987,Richard Donner,"action, crime, thriller",177622,110,6/3/1987,Feature Film,7.6,tt0093409,http://www.imdb.com/title/tt0093409/
+928,The Chaser,2008,Hong-jin Na,thriller,31782,125,14/02/2008,Feature Film,7.9,tt1190539,http://www.imdb.com/title/tt1190539/
+929,Ip Man 2,2010,Wilson Yip,"action, biography, drama, history, sport",56516,108,29/04/2010,Feature Film,7.6,tt1386932,http://www.imdb.com/title/tt1386932/
+930,Elizabeth,1998,Shekhar Kapur,"biography, drama, history",71212,124,8/9/1998,Feature Film,7.5,tt0127536,http://www.imdb.com/title/tt0127536/
+931,Swingers,1996,Doug Liman,"comedy, drama",60807,96,31/08/1996,Feature Film,7.4,tt0117802,http://www.imdb.com/title/tt0117802/
+932,Rise of the Planet of the Apes,2011,Rupert Wyatt,"action, drama, sci_fi, thriller",368124,105,3/8/2011,Feature Film,7.6,tt1318514,http://www.imdb.com/title/tt1318514/
+933,Finding Neverland,2004,Marc Forster,"biography, drama, family",165607,106,4/9/2004,Feature Film,7.8,tt0308644,http://www.imdb.com/title/tt0308644/
+934,Aparajito,1956,Satyajit Ray,drama,5974,110,1956,Feature Film,8.1,tt0048956,http://www.imdb.com/title/tt0048956/
+935,Bambi,1942,"James Algar, Sam Armstrong","animation, family",82185,70,8/8/1942,Feature Film,7.4,tt0034492,http://www.imdb.com/title/tt0034492/
+936,Make Way for Tomorrow,1937,Leo McCarey,"drama, romance",4422,91,7/5/1937,Feature Film,8.3,tt0029192,http://www.imdb.com/title/tt0029192/
+937,Predator,1987,John McTiernan,"action, horror, sci_fi",267166,107,12/6/1987,Feature Film,7.8,tt0093773,http://www.imdb.com/title/tt0093773/
+938,Kes,1969,Kenneth Loach,"drama, family, sport",11571,110,1969-11,Feature Film,7.8,tt0064541,http://www.imdb.com/title/tt0064541/
+939,Submarine,2010,Richard Ayoade,"comedy, drama, romance",58114,97,12/9/2010,Feature Film,7.3,tt1440292,http://www.imdb.com/title/tt1440292/
+940,Ring,1998,Hideo Nakata,"horror, mystery, thriller",47043,96,31/01/1998,Feature Film,7.3,tt0178868,http://www.imdb.com/title/tt0178868/
+941,The Jungle Book,1967,Wolfgang Reitherman,"animation, adventure, family, musical",106824,78,18/10/1967,Feature Film,7.6,tt0061852,http://www.imdb.com/title/tt0061852/
+942,The Awful Truth,1937,Leo McCarey,"comedy, romance",12688,91,21/10/1937,Feature Film,8,tt0028597,http://www.imdb.com/title/tt0028597/
+943,Smiles of a Summer Night,1955,Ingmar Bergman,"comedy, romance",8287,108,26/12/1955,Feature Film,8,tt0048641,http://www.imdb.com/title/tt0048641/
+944,Zatoichi,2003,Takeshi Kitano,"action, comedy, crime, drama, music",38253,116,2/9/2003,Feature Film,7.6,tt0363226,http://www.imdb.com/title/tt0363226/
+945,Kung Fu Panda,2008,"Mark Osborne, John Stevenson","animation, action, adventure, comedy, family",266789,92,15/05/2008,Feature Film,7.6,tt0441773,http://www.imdb.com/title/tt0441773/
+946,Garden State,2004,Zach Braff,"comedy, drama, romance",180341,102,16/01/2004,Feature Film,7.6,tt0333766,http://www.imdb.com/title/tt0333766/
+947,The Crying Game,1992,Neil Jordan,"crime, drama, romance, thriller",39037,112,2/9/1992,Feature Film,7.3,tt0104036,http://www.imdb.com/title/tt0104036/
+948,Boy A,2007,John Crowley,drama,31848,106,8/9/2007,Feature Film,7.7,tt1078188,http://www.imdb.com/title/tt1078188/
+949,In the Bedroom,2001,Todd Field,"crime, drama",30982,130,19/01/2001,Feature Film,7.5,tt0247425,http://www.imdb.com/title/tt0247425/
+950,Day of Wrath,1943,Carl Theodor Dreyer,drama,6278,97,13/11/1943,Feature Film,7.9,tt0036506,http://www.imdb.com/title/tt0036506/
+951,Indiana Jones and the Temple of Doom,1984,Steven Spielberg,"action, adventure",290536,118,23/05/1984,Feature Film,7.6,tt0087469,http://www.imdb.com/title/tt0087469/
+952,"The Cook, the Thief, His Wife & Her Lover",1989,Peter Greenaway,"crime, drama, romance",25076,124,11/9/1989,Feature Film,7.5,tt0097108,http://www.imdb.com/title/tt0097108/
+953,21 Grams,2003,Alejandro Gonz?≠lez I?Ò?≠rritu,"crime, drama, thriller",175561,124,5/9/2003,Feature Film,7.7,tt0315733,http://www.imdb.com/title/tt0315733/
+954,"Now, Voyager",1942,Irving Rapper,"drama, romance",10368,117,22/10/1942,Feature Film,8.1,tt0035140,http://www.imdb.com/title/tt0035140/
+955,The World's Fastest Indian,2005,Roger Donaldson,"biography, drama, sport",41679,127,10/9/2005,Feature Film,7.9,tt0412080,http://www.imdb.com/title/tt0412080/
+956,Notes on a Scandal,2006,Richard Eyre,"drama, thriller",61791,92,25/12/2006,Feature Film,7.4,tt0465551,http://www.imdb.com/title/tt0465551/
+957,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006,Larry Charles,comedy,274623,84,4/8/2006,Feature Film,7.3,tt0443453,http://www.imdb.com/title/tt0443453/
+958,"Ivan the Terrible, Part I",1945,Sergei Eisenstein,"biography, history",6238,103,20/01/1945,Feature Film,7.6,tt0037824,http://www.imdb.com/title/tt0037824/
+959,Source Code,2011,Duncan Jones,"mystery, sci_fi, thriller",337636,93,11/3/2011,Feature Film,7.5,tt0945513,http://www.imdb.com/title/tt0945513/
+960,The Fisher King,1991,Terry Gilliam,"comedy, drama, romance",58668,137,13/09/1991,Feature Film,7.6,tt0101889,http://www.imdb.com/title/tt0101889/
+961,Speed,1994,Jan de Bont,"action, crime, thriller",241126,116,10/6/1994,Feature Film,7.2,tt0111257,http://www.imdb.com/title/tt0111257/
+962,Shoot the Piano Player,1960,Fran??ois Truffaut,"crime, drama, thriller",11723,92,21/10/1960,Feature Film,7.7,tt0054389,http://www.imdb.com/title/tt0054389/
+963,Drugstore Cowboy,1989,Gus Van Sant Jr.,"crime, drama",23707,102,9/9/1989,Feature Film,7.4,tt0097240,http://www.imdb.com/title/tt0097240/
+964,Once Were Warriors,1994,Lee Tamahori,"crime, drama",23708,102,2/9/1994,Feature Film,8,tt0110729,http://www.imdb.com/title/tt0110729/
+965,Our Hospitality,1923,"Jack Blystone, Buster Keaton","comedy, family",6655,65,19/11/1923,Feature Film,7.9,tt0014341,http://www.imdb.com/title/tt0014341/
+966,L'Eclisse,1962,Michelangelo Antonioni,drama,10320,126,12/4/1962,Feature Film,7.9,tt0056736,http://www.imdb.com/title/tt0056736/
+967,Dark City,1998,Alex Proyas,"drama, fantasy, sci_fi, thriller",145657,100,27/02/1998,Feature Film,7.7,tt0118929,http://www.imdb.com/title/tt0118929/
+968,Philadelphia,1993,Jonathan Demme,drama,166191,125,22/12/1993,Feature Film,7.7,tt0107818,http://www.imdb.com/title/tt0107818/
+969,Tucker and Dale vs. Evil,2010,Eli Craig,"comedy, horror",113438,89,22/01/2010,Feature Film,7.6,tt1465522,http://www.imdb.com/title/tt1465522/
+970,Trading Places,1983,John Landis,comedy,93666,116,8/6/1983,Feature Film,7.5,tt0086465,http://www.imdb.com/title/tt0086465/
+971,Vacation,1983,Harold Ramis,comedy,62368,98,29/07/1983,Feature Film,7.4,tt0085995,http://www.imdb.com/title/tt0085995/
+972,Menace II Society,1993,"The Hughes Brothers, The Hughes Brothers","crime, drama, thriller",36373,97,26/05/1993,Feature Film,7.5,tt0107554,http://www.imdb.com/title/tt0107554/
+973,Gosford Park,2001,Robert Altman,"drama, mystery",61879,137,7/11/2001,Feature Film,7.3,tt0280707,http://www.imdb.com/title/tt0280707/
+974,Precious,2009,Lee Daniels,drama,78648,110,16/01/2009,Feature Film,7.4,tt0929632,http://www.imdb.com/title/tt0929632/
+975,The Taking of Pelham One Two Three,1974,Joseph Sargent,"action, crime, thriller",18482,104,1974-09,Feature Film,7.7,tt0072251,http://www.imdb.com/title/tt0072251/
+976,The Marriage of Maria Braun,1979,Rainer Werner Fassbinder,drama,7850,120,20/02/1979,Feature Film,7.9,tt0079095,http://www.imdb.com/title/tt0079095/
+977,Munich,2005,Steven Spielberg,"drama, history, thriller",166192,164,23/12/2005,Feature Film,7.6,tt0408306,http://www.imdb.com/title/tt0408306/
+978,The Damned United,2009,Tom Hooper,"biography, comedy, drama, sport",29532,98,27/03/2009,Feature Film,7.6,tt1226271,http://www.imdb.com/title/tt1226271/
+979,Where Eagles Dare,1968,Brian G. Hutton,"action, adventure, war",37671,158,4/12/1968,Feature Film,7.7,tt0065207,http://www.imdb.com/title/tt0065207/
+980,Re-Animator,1985,Stuart Gordon,"comedy, horror, sci_fi",35609,104,18/10/1985,Feature Film,7.3,tt0089885,http://www.imdb.com/title/tt0089885/
+981,Giant,1956,George Stevens,"drama, romance",24327,201,10/10/1956,Feature Film,7.7,tt0049261,http://www.imdb.com/title/tt0049261/
+982,Rust and Bone,2012,Jacques Audiard,"drama, romance",42019,120,17/05/2012,Feature Film,7.5,tt2053425,http://www.imdb.com/title/tt2053425/
+983,My Name Is Khan,2010,Karan Johar,"drama, romance, thriller",58647,165,11/2/2010,Feature Film,8,tt1188996,http://www.imdb.com/title/tt1188996/
+984,Far from Heaven,2002,Todd Haynes,drama,34289,107,1/9/2002,Feature Film,7.4,tt0297884,http://www.imdb.com/title/tt0297884/
+985,A Few Good Men,1992,Rob Reiner,"drama, thriller",168213,138,9/12/1992,Feature Film,7.6,tt0104257,http://www.imdb.com/title/tt0104257/
+986,Little Big Man,1970,Arthur Penn,"comedy, history, western",25175,139,14/12/1970,Feature Film,7.7,tt0065988,http://www.imdb.com/title/tt0065988/
+987,American Hustle,2013,David O. Russell,"crime, drama",319775,138,12/12/2013,Feature Film,7.3,tt1800241,http://www.imdb.com/title/tt1800241/
+988,The Spectacular Now,2013,James Ponsoldt,"comedy, drama, romance",85747,95,18/01/2013,Feature Film,7.2,tt1714206,http://www.imdb.com/title/tt1714206/
+989,Moulin Rouge!,2001,Baz Luhrmann,"drama, musical, romance",210744,127,9/5/2001,Feature Film,7.7,tt0203009,http://www.imdb.com/title/tt0203009/
+990,Little Children,2006,Todd Field,"drama, romance",88877,136,1/9/2006,Feature Film,7.6,tt0404203,http://www.imdb.com/title/tt0404203/
+991,Angels with Dirty Faces,1938,Michael Curtiz,"crime, drama, film_noir, thriller",14960,97,26/11/1938,Feature Film,8,tt0029870,http://www.imdb.com/title/tt0029870/
+992,Black Hawk Down,2001,Ridley Scott,"drama, history, thriller, war",269276,144,18/12/2001,Feature Film,7.7,tt0265086,http://www.imdb.com/title/tt0265086/
+993,Dumbo,1941,"Sam Armstrong, Norman Ferguson","animation, family, musical",74833,64,23/10/1941,Feature Film,7.3,tt0033563,http://www.imdb.com/title/tt0033563/
+994,Manon des sources,1986,Claude Berri,drama,15615,113,19/11/1986,Feature Film,8,tt0091480,http://www.imdb.com/title/tt0091480/
+995,Letter from an Unknown Woman,1948,Max Opuls,"drama, romance",7306,86,28/04/1948,Feature Film,8,tt0040536,http://www.imdb.com/title/tt0040536/
+996,Dawn of the Dead,1978,George A. Romero,"drama, horror",83414,127,2/9/1978,Feature Film,8,tt0077402,http://www.imdb.com/title/tt0077402/
+997,Gilda,1946,Charles Vidor,"drama, film_noir, romance, thriller",18421,110,14/02/1946,Feature Film,7.8,tt0038559,http://www.imdb.com/title/tt0038559/
+998,Master and Commander: The Far Side of the World,2003,Peter Weir,"action, adventure, drama, war",158193,138,14/11/2003,Feature Film,7.4,tt0311113,http://www.imdb.com/title/tt0311113/
+999,Audition,1999,Takashi Miike,"drama, horror, romance, thriller",51152,115,6/10/1999,Feature Film,7.2,tt0235198,http://www.imdb.com/title/tt0235198/
+1000,The Abyss,1989,James Cameron,"adventure, drama, sci_fi, thriller",121609,145,9/8/1989,Feature Film,7.6,tt0096754,http://www.imdb.com/title/tt0096754/
+1001,Lone Star,1996,John Sayles,"drama, mystery, romance",21991,135,21/06/1996,Feature Film,7.6,tt0116905,http://www.imdb.com/title/tt0116905/
