@@ -5,8 +5,7 @@ from random import choice
 
 replacement_word = "Schuster"
 
-def get_movie_title():
-
+def get_movie_csv():
     #Retrieve the full csv file from the s3 bucket
     s3 = boto3.resource('s3')
     bucket = 'top1001movies'
@@ -29,8 +28,14 @@ def get_movie_title():
             title = i[1]
             titles.append(title)
 
-    #Return one title from that list
-    return choice(titles)
+    return titles
+
+def get_movie_title(movie_list):
+    next_movie = choice(movie_list)
+    if len(next_movie.split(' ')) > 1:
+        return next_movie
+    else:
+        return get_movie_title(movie_list)
 
 def replace_word_in_movie_title(movie_title):
     '''
@@ -60,20 +65,21 @@ def replace_word_in_movie_title(movie_title):
 
     word_index_to_replace = []
     for n,i in enumerate(word_list):
-        if i not in stop_words:
-            words_to_replace.append(n)
+        if i.lower() not in stop_words:
+            word_index_to_replace.append(n)
 
     #If all the words are stop words, just replace one word with the replacement word
     if len(word_index_to_replace) == 0:
-        movie_title.replace(random.choice(word_list), replacement_word)
+        movie_title.replace(choice(word_list), replacement_word)
         return movie_title
     else:
-        
+        index = choice(word_index_to_replace)
+        word_list[index] = replacement_word
+        movie_title = ' '.join(word_list)
+        return movie_title
 
-
-
-
-
+def post_to_slack_webhook(replaced_word_movie_title):
+    
 
 def lambda_handler(event, context):
     '''
@@ -83,6 +89,7 @@ def lambda_handler(event, context):
     Then it posts that information to a slack webhook.
     '''
 
-    movie_title = get_movie_title()
+    movie_list = get_movie_csv()
+    movie_title = get_movie_title(movie_list)
     replaced_word_movie_title = replace_word_in_movie_title(movie_title)
     post_to_slack_webhook(replaced_word_movie_title)
