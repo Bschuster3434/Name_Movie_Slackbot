@@ -3,7 +3,6 @@ Slackbot to randomly post a movie name with one word switched out to your name.
 
 Core Functionality
 - Python2.7
-- Web Scrapping using BeautifulSoup4
 - Event Handling through Lambda
 - Posting to Slack Through API
 
