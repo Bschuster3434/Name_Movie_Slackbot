@@ -3,6 +3,11 @@ import StringIO
 import csv
 from random import choice
 
+import json
+import logging
+from base64 import b64decode
+from urllib2 import Request, urlopen, URLError, HTTPError
+
 replacement_word = "Schuster"
 
 def get_movie_csv():
@@ -78,8 +83,20 @@ def replace_word_in_movie_title(movie_title):
         movie_title = ' '.join(word_list)
         return movie_title
 
-def post_to_slack_webhook(replaced_word_movie_title):
-    
+def post_to_slack_webhook(movie_title, replaced_word_movie_title):
+    slack_channel = 'tango'
+    hook_url = "https://hooks.slack.com/services/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"
+
+    message = replaced_word_movie_title + " (original title: " + movie_title + ")"
+
+    slack_message = {
+        'channel': slack_channel,
+        'text': message
+    }
+
+    req = Request(hook_url, json.dumps(slack_message))
+    response = urlopen(req)
+    print response.read()
 
 def lambda_handler(event, context):
     '''
@@ -92,4 +109,4 @@ def lambda_handler(event, context):
     movie_list = get_movie_csv()
     movie_title = get_movie_title(movie_list)
     replaced_word_movie_title = replace_word_in_movie_title(movie_title)
-    post_to_slack_webhook(replaced_word_movie_title)
+    post_to_slack_webhook(movie_title, replaced_word_movie_title)
